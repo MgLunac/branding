@@ -2,6 +2,8 @@
 
 A repo to store branding guidelines and logo files for BrickMMO.
 
+***
+
 ## Requirements:
 
 * [BrickMMO](https://www.brickmmo.com/)
