@@ -1,6 +1,6 @@
 # BrickMMO Branding
 
-A repo to store branding guidelines and logo files for BrickMMO.
+A repo to store branding guidelines and logo files for the BrickMMO Smart City.
 
 ***
 
