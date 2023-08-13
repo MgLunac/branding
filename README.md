@@ -2,6 +2,9 @@
 
 A repo to store branding guidelines and logo files for the BrickMMO Smart City.
 
+> This repo is avilable to view at  
+> [https://branding.brickmmo.com/](https://branding.brickmmo.com/)
+
 ***
 
 ## Repo Resources
