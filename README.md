@@ -7,6 +7,14 @@ A repo to store branding guidelines and logo files for the BrickMMO Smart City.
 
 ***
 
+## Project Stack
+
+This project uses only [Markdown](https://www.markdownguide.org/) and is hosted using [GitHub Pages](https://pages.github.com/).
+
+<img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/markdown" width="60">
+
+---
+
 ## Repo Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
