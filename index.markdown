@@ -5,5 +5,7 @@
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in your marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 ### BRICKMMO LOGOS
+#### PRIMARY LOGO
+In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.
 
 ![Example Image](https://github.com/MgLunac/branding/blob/897840134754bd46b3a55af638dce2dc445c30e5/BMMO%20Logo.png)
