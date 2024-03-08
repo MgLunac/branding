@@ -99,7 +99,7 @@ Opt for the vertical logo in narrow or portrait-oriented spaces and applications
 
 Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.
 
-![Example Image](https://github.com/MgLunac/branding/blob/8928db1ae7eaa1f98d0a5d968a74d788a95bdabe/BMMO%20Logo%20Horizontal.png)
+![Example Image](https://github.com/MgLunac/branding/blob/30f9ee421b7a2614555d83149778b5e2c6cf8e43/BMMO%20Logo%20Horizontal-.png)
 
 </td>
 </tr>
