@@ -58,7 +58,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre
 
 **COLOURED LOGO**
 
-![Example Image](https://github.com/MgLunac/branding/blob/bfbd134eec0dfe2a48e9934934125d1cf3736c9c/Montone%20Logo%20(Black).png)
+![Example Image](https://github.com/MgLunac/branding/blob/92c3ed16d4cc687a00c2d9c469df345214c9e646/BrickMMO%20Coloured%20Logo.png)
 
 </td>
 <td width="33.3%">
