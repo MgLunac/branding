@@ -20,7 +20,9 @@ In most circumstances, the primary logo should be used any departments that do n
 
 **SUB-BRAND LOGOS:**
 
-Do not use unapproved names
+Do not use unapproved names.
+
+![Example Image](https://github.com/MgLunac/branding/blob/897840134754bd46b3a55af638dce2dc445c30e5/BMMO%20Logo.png)
 
 </td>
 </tr>
