@@ -31,18 +31,52 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre
 </table>
 
 ### LOGO COLOURS
+
 <table>
 <tr>
-<td width="33.3%">
+<td width="25%">
 
 ![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Orange.png)
 
 </td>
-<td width="33.3%">
+<td width="25%">
 
 ![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Red.png)
 
 </td>
-<td width="33.3%">
+<td width="25%">
 
 ![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Gray.png)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33.3%">
+
+**COLOURED LOGO**
+
+![Example Image](https://github.com/MgLunac/branding/blob/bfbd134eec0dfe2a48e9934934125d1cf3736c9c/Montone%20Logo%20(Black).png)
+
+</td>
+<td width="33.3%">
+
+**MONOTONE LOGO (BLACK)**
+
+![Example Image](https://github.com/MgLunac/branding/blob/bfbd134eec0dfe2a48e9934934125d1cf3736c9c/Montone%20Logo%20(Black).png)
+
+</td>
+<td width="33.3%">
+
+**MONOTONE LOGO (WHITE)**
+
+![Example Image](https://github.com/MgLunac/branding/blob/bfbd134eec0dfe2a48e9934934125d1cf3736c9c/Monotone%20Logo%20(White).png)
+
+</td>
+</tr>
+</table>
+
+
+
