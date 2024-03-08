@@ -90,7 +90,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre
 
 Opt for the vertical logo in narrow or portrait-oriented spaces and applications, especially on mobile devices, social media profiles, and merchandise items where a vertical orientation fits better within the available space.
 
-![Example Image](https://github.com/MgLunac/branding/blob/897840134754bd46b3a55af638dce2dc445c30e5/BMMO%20Logo.png)
+![Example Image](https://github.com/MgLunac/branding/blob/01d55f98a88484c570a85eca3788be17effef4a6/BrickMMO%20Coloured%20Logo.png)
 
 </td>
 <td width="50%">
