@@ -20,7 +20,9 @@ In most circumstances, the primary logo should be used any departments that do n
 
 **SUB-BRAND LOGOS:**
 
-Do not use unapproved names. Put the sub-brand name under the logo and must be centered. 
+Do not use unapproved names.
+Put the sub-brand name under the logo and the text must be centered. 
+Sub-brands: Smart Cities / Biologics Manufacturing Centre
 
 ![Example Image](https://github.com/MgLunac/branding/blob/8342248ff9a380f725ad6c196950831d8244859b/BMMO%20Dark%20version.png)
 
