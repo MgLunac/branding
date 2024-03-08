@@ -34,26 +34,6 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre
 
 <table>
 <tr>
-<td width="25%">
-
-![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Orange.png)
-
-</td>
-<td width="25%">
-
-![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Red.png)
-
-</td>
-<td width="25%">
-
-![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Gray.png)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="33.3%">
 
 **COLOURED LOGO**
@@ -77,6 +57,29 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="33.3%">
+
+![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Orange.png)
+
+</td>
+<td width="33.3%">
+
+![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Red.png)
+
+</td>
+<td width="33.3%">
+
+![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Gray.png)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 
 
 
