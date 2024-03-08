@@ -29,3 +29,18 @@ Do not use unapproved names.
 </table>
 
 ### LOGO COLOURS
+<table>
+<tr>
+<td width="33.3%">
+
+![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Orange.png)
+
+</td>
+<td width="33.3%">
+
+![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Red.png)
+
+</td>
+<td width="33.3%">
+
+![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Gray.png)
