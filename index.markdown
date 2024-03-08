@@ -22,7 +22,7 @@ In most circumstances, the primary logo should be used any departments that do n
 
 Do not use unapproved names.
 
-![Example Image](https://github.com/MgLunac/branding/blob/897840134754bd46b3a55af638dce2dc445c30e5/BMMO%20Logo.png)
+![Example Image](https://github.com/MgLunac/branding/blob/d7fb4b133a15f8cc60cb58065b4f6d324c98a7e0/BMMO%20Dark%20version.png)
 
 </td>
 </tr>
