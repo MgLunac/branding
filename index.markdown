@@ -81,6 +81,30 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre
 <table>
 <tr>
 
+### LOGO FORMAT
+<table>
+<tr>
+<td width="50%">
+
+**VERTICAL FORMAT:**
+
+Opt for the vertical logo in narrow or portrait-oriented spaces and applications, especially on mobile devices, social media profiles, and merchandise items where a vertical orientation fits better within the available space.
+
+![Example Image](https://github.com/MgLunac/branding/blob/897840134754bd46b3a55af638dce2dc445c30e5/BMMO%20Logo.png)
+
+</td>
+<td width="50%">
+
+**HORIZONTAL FORMAT:**
+
+Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.
+
+![Example Image](https://github.com/MgLunac/branding/blob/8342248ff9a380f725ad6c196950831d8244859b/BMMO%20Dark%20version.png)
+
+</td>
+</tr>
+</table>
+
 
 
 
