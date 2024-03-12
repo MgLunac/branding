@@ -120,14 +120,14 @@ Do not stretch, skew, or rotate the logo; always maintain its original orientati
 
 **AVOID BACKGROND CLUTTER**
 
-![Example Image](https://github.com/MgLunac/branding/blob/bfbd134eec0dfe2a48e9934934125d1cf3736c9c/Montone%20Logo%20(Black).png)
+![Example Image](https://github.com/MgLunac/branding/blob/2e4e2f257218af3211312b4a460c3dbb03c44095/2%20Background%20Clutter.png)
 Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.
 </td>
 <td width="33.3%">
 
 **DONT' MODIFY DESIGN ELEMENT**
 
-![Example Image](https://github.com/MgLunac/branding/blob/bfbd134eec0dfe2a48e9934934125d1cf3736c9c/Monotone%20Logo%20(White).png)
+![Example Image](https://github.com/MgLunac/branding/blob/2e4e2f257218af3211312b4a460c3dbb03c44095/3%20Modify%20Elements.png)
 Do not alter or remove any design elements, such as symbols, or shapes, from the logo.
 </td>
 </tr>
