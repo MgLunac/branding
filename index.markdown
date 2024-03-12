@@ -105,7 +105,7 @@ Use the horizontal logo in wide, landscape-oriented spaces and applications wher
 </tr>
 </table>
 
-### IMPROPPER USES OF THE LOGO
+### IMPROPER USES OF THE LOGO
 
 <table>
 <tr>
