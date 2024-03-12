@@ -105,6 +105,38 @@ Use the horizontal logo in wide, landscape-oriented spaces and applications wher
 </tr>
 </table>
 
+### IMPROPPER USES OF THE LOGO
+
+<table>
+<tr>
+<td width="33.3%">
+
+**DISTORTION**
+
+![Example Image](https://github.com/MgLunac/branding/blob/92c3ed16d4cc687a00c2d9c469df345214c9e646/BrickMMO%20Coloured%20Logo.png)
+Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.
+</td>
+<td width="33.3%">
+
+**AVOID BACKGROND CLUTTER**
+
+![Example Image](https://github.com/MgLunac/branding/blob/bfbd134eec0dfe2a48e9934934125d1cf3736c9c/Montone%20Logo%20(Black).png)
+Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.
+</td>
+<td width="33.3%">
+
+**DONT' MODIFY DESIGN ELEMENT**
+
+![Example Image](https://github.com/MgLunac/branding/blob/bfbd134eec0dfe2a48e9934934125d1cf3736c9c/Monotone%20Logo%20(White).png)
+Do not alter or remove any design elements, such as symbols, or shapes, from the logo.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33.3%">
+
 
 
 
