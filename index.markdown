@@ -136,6 +136,35 @@ Do not alter or remove any design elements, such as symbols, or shapes, from the
 <table>
 <tr>
 
+<table>
+<tr>
+<td width="33.3%">
+
+**AVOID ALTERING TYPOGRAPHY**
+
+![Example Image](https://github.com/MgLunac/branding/blob/36630939ad13d7880f4ad29098cf02fe0d820470/4%20Avoid%20Altering%20Typography.png)
+Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.
+</td>
+<td width="33.3%">
+
+**AVOID UNAPPROVED COLOURS**
+
+![Example Image](https://github.com/MgLunac/branding/blob/36630939ad13d7880f4ad29098cf02fe0d820470/5%20Avoid%20Unapproved%20Colours.png)
+Do not use colours outside the approved colour palette for the logo.
+</td>
+<td width="33.3%">
+
+**AVOID ADDING GRAPHIC ELEMENTS**
+
+![Example Image](https://github.com/MgLunac/branding/blob/36630939ad13d7880f4ad29098cf02fe0d820470/6%20Avoid%20Adding%20Graphic%20Elements.png)
+Do not add any other graphic elements to the logos.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+
 
 
 
