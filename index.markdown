@@ -16,7 +16,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.
 
-![Example Image](https://github.com/MgLunac/branding/blob/897840134754bd46b3a55af638dce2dc445c30e5/BMMO%20Logo.png)
+![BrickMMO Logo](images/BrickMMO_Logo.png)
 
 </td>
 <td width="50%">
@@ -27,7 +27,7 @@ Do not use unapproved names.
 Put the sub-brand name under the logo and the text must be centered. 
 Sub-brands: Smart Cities / Biologics Manufacturing Centre
 
-![Example Image](https://github.com/MgLunac/branding/blob/8342248ff9a380f725ad6c196950831d8244859b/BMMO%20Dark%20version.png)
+![BrickMMO Logo Dark](images/BrickMMO_Logo_Sub.png)
 
 </td>
 </tr>
@@ -41,21 +41,21 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre
 
 **COLOURED LOGO**
 
-![Example Image](https://github.com/MgLunac/branding/blob/92c3ed16d4cc687a00c2d9c469df345214c9e646/BrickMMO%20Coloured%20Logo.png)
+![BrickMMO Logo Coloured](images/BrickMMO_Logo_Coloured.png)
 
 </td>
 <td width="33.3%">
 
 **MONOTONE LOGO (BLACK)**
 
-![Example Image](https://github.com/MgLunac/branding/blob/bfbd134eec0dfe2a48e9934934125d1cf3736c9c/Montone%20Logo%20(Black).png)
+![BrickMMO Logo Black](images/BrickMMO_Logo_Black.png)
 
 </td>
 <td width="33.3%">
 
 **MONOTONE LOGO (WHITE)**
 
-![Example Image](https://github.com/MgLunac/branding/blob/bfbd134eec0dfe2a48e9934934125d1cf3736c9c/Monotone%20Logo%20(White).png)
+![BrickMMO Logo White](images/BrickMMO_Logo_White.png)
 
 </td>
 </tr>
@@ -63,19 +63,25 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre
 
 <table>
 <tr>
-<td width="33.3%">
+<td width="33.3%" style="background-color:#ff5B00; color:#ffffff;">
 
-![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Orange.png)
-
-</td>
-<td width="33.3%">
-
-![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Red.png)
+CMYK: **0 79 100 0**  
+RGB: **255 91 0**  
+HEX: **ff5b00**
 
 </td>
-<td width="33.3%">
+<td width="33.3%" style="background-color:#ff0000; color:#ffffff;">
 
-![Example Image](https://github.com/MgLunac/branding/blob/508622bb3afd1c19f85a27991881a19b429d320d/Gray.png)
+CMYK: **0 99 100 0**  
+RGB: **255 0 0**  
+HEX: **ff0000**
+
+</td>
+<td width="33.3%" style="background-color:#848484; color:#ffffff;">
+
+CMYK: **51 43 43 6**  
+RGB: **132 132 132**  
+HEX: **848484**
 
 </td>
 </tr>
@@ -93,7 +99,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre
 
 Opt for the vertical logo in narrow or portrait-oriented spaces and applications, especially on mobile devices, social media profiles, and merchandise items where a vertical orientation fits better within the available space.
 
-![Example Image](https://github.com/MgLunac/branding/blob/01d55f98a88484c570a85eca3788be17effef4a6/BrickMMO%20Coloured%20Logo.png)
+![BrickMMO Logo Coloured](images/BrickMMO_Logo_Coloured.png)
 
 </td>
 <td width="50%">
@@ -102,7 +108,7 @@ Opt for the vertical logo in narrow or portrait-oriented spaces and applications
 
 Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.
 
-![Example Image](https://github.com/MgLunac/branding/blob/30f9ee421b7a2614555d83149778b5e2c6cf8e43/BMMO%20Logo%20Horizontal-.png)
+![BrickMMO Logo Coloured](images/BrickMMO_Logo_Coloured_Horizontal.png)
 
 </td>
 </tr>
@@ -116,21 +122,21 @@ Use the horizontal logo in wide, landscape-oriented spaces and applications wher
 
 **DISTORTION**
 
-![Example Image](https://github.com/MgLunac/branding/blob/3b63805d37ddcb4f18d54432bd287c0ff1fd9bd8/1%20Distortion.png)
+![Example Image](improper/distortion.png)
 Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.
 </td>
 <td width="33.3%">
 
 **AVOID BACKGROND CLUTTER**
 
-![Example Image](https://github.com/MgLunac/branding/blob/2e4e2f257218af3211312b4a460c3dbb03c44095/2%20Background%20Clutter.png)
+![Example Image](improper/background-clutter.png)
 Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.
 </td>
 <td width="33.3%">
 
 **DONT' MODIFY DESIGN ELEMENT**
 
-![Example Image](https://github.com/MgLunac/branding/blob/2e4e2f257218af3211312b4a460c3dbb03c44095/3%20Modify%20Elements.png)
+![Example Image](improper/modify-elements.png)
 Do not alter or remove any design elements, such as symbols, or shapes, from the logo.
 </td>
 </tr>
@@ -145,21 +151,21 @@ Do not alter or remove any design elements, such as symbols, or shapes, from the
 
 **AVOID ALTERING TYPOGRAPHY**
 
-![Example Image](https://github.com/MgLunac/branding/blob/36630939ad13d7880f4ad29098cf02fe0d820470/4%20Avoid%20Altering%20Typography.png)
+![Example Image](improper/altering-typography.png)
 Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.
 </td>
 <td width="33.3%">
 
 **AVOID UNAPPROVED COLOURS**
 
-![Example Image](https://github.com/MgLunac/branding/blob/36630939ad13d7880f4ad29098cf02fe0d820470/5%20Avoid%20Unapproved%20Colours.png)
+![Example Image](improper/unapproved-colours.png)
 Do not use colours outside the approved colour palette for the logo.
 </td>
 <td width="33.3%">
 
 **AVOID ADDING GRAPHIC ELEMENTS**
 
-![Example Image](https://github.com/MgLunac/branding/blob/36630939ad13d7880f4ad29098cf02fe0d820470/6%20Avoid%20Adding%20Graphic%20Elements.png)
+![Example Image](improper/adding-graphic-elements.png)
 Do not add any other graphic elements to the logos.
 </td>
 </tr>
