@@ -16,11 +16,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.
 
-<<<<<<< HEAD
 ![BrickMMO Logo](images/BrickMMO_Logo.png)
-=======
-![Example Image](images/BrickMMO_Logo.png)
->>>>>>> 814386bb43764b276b160aa0376e838499ab2fef
 
 </td>
 <td width="50%">
@@ -31,11 +27,7 @@ Do not use unapproved names.
 Put the sub-brand name under the logo and the text must be centered. 
 Sub-brands: Smart Cities / Biologics Manufacturing Centre
 
-<<<<<<< HEAD
-![BrickMMO Logo Dark](images/BrickMMO_Logo_Sub.png)
-=======
-![Example Image](images/BrickMMO_Dark.png)
->>>>>>> 814386bb43764b276b160aa0376e838499ab2fef
+![BrickMMO Logo Sub](images/BrickMMO_Logo_Sub.png)
 
 </td>
 </tr>
