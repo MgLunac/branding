@@ -27,39 +27,13 @@ Do not use unapproved names.
 Put the sub-brand name under the logo and the text must be centered. 
 Sub-brands: Smart Cities / Biologics Manufacturing Centre
 
-![BrickMMO Logo Sub](images/BrickMMO_Logo_Sub.png)
+<img src="images/BrickMMO_Logo_Sub.png">
 
 </td>
 </tr>
 </table>
 
 ### LOGO COLOURS
-
-<table>
-<tr>
-<td width="33.3%" style="background-color:red;">
-
-**COLOURED LOGO**
-
-![BrickMMO Logo Coloured](images/BrickMMO_Logo_Coloured.png)
-
-</td>
-<td width="33.3%">
-
-**MONOTONE LOGO (BLACK)**
-
-![BrickMMO Logo Black](images/BrickMMO_Logo_Black.png)
-
-</td>
-<td width="33.3%">
-
-**MONOTONE LOGO (WHITE)**
-
-![BrickMMO Logo White](images/BrickMMO_Logo_White.png)
-
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
