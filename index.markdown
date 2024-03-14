@@ -39,22 +39,28 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre
 <tr>
 <td width="33.3%" style="background-color:#ff5B00; color:#ffffff;">
 
-CMYK: **0 79 100 0**  
+CMYK: **0 79 100 0**
+<br>  
 RGB: **255 91 0**  
+<br>
 HEX: **ff5b00**
 
 </td>
 <td width="33.3%" style="background-color:#ff0000; color:#ffffff;">
 
 CMYK: **0 99 100 0**  
+<br>
 RGB: **255 0 0**  
+<br>
 HEX: **ff0000**
 
 </td>
 <td width="33.3%" style="background-color:#848484; color:#ffffff;">
 
 CMYK: **51 43 43 6**  
+<br>
 RGB: **132 132 132**  
+<br>
 HEX: **848484**
 
 </td>
@@ -73,7 +79,7 @@ HEX: **848484**
 
 Opt for the vertical logo in narrow or portrait-oriented spaces and applications, especially on mobile devices, social media profiles, and merchandise items where a vertical orientation fits better within the available space.
 
-![BrickMMO Logo Coloured](images/BrickMMO_Logo_Coloured.png)
+<img src="images/BrickMMO_Logo_Coloured.png">
 
 </td>
 <td width="50%">
@@ -82,7 +88,7 @@ Opt for the vertical logo in narrow or portrait-oriented spaces and applications
 
 Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.
 
-![BrickMMO Logo Coloured](images/BrickMMO_Logo_Coloured_Horizontal.png)
+<img src="images/BrickMMO_Logo_Coloured_Horizontal.png">
 
 </td>
 </tr>
@@ -96,58 +102,59 @@ Use the horizontal logo in wide, landscape-oriented spaces and applications wher
 
 **DISTORTION**
 
-![Example Image](improper/distortion.png)
+<img src="improper/distortion.png">
 Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.
+
 </td>
 <td width="33.3%">
 
 **AVOID BACKGROND CLUTTER**
 
-![Example Image](improper/background-clutter.png)
+<img src="improper/background-clutter.png">
+<br>
 Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.
+
 </td>
 <td width="33.3%">
 
 **DONT' MODIFY DESIGN ELEMENT**
 
-![Example Image](improper/modify-elements.png)
+<img src="improper/modify-elements.png">
+<br>
 Do not alter or remove any design elements, such as symbols, or shapes, from the logo.
+
 </td>
 </tr>
-</table>
-
-<table>
-<tr>
-
-<table>
 <tr>
 <td width="33.3%">
 
 **AVOID ALTERING TYPOGRAPHY**
 
-![Example Image](improper/altering-typography.png)
+<img src="improper/altering-typography.png">
+<br>
 Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.
+
 </td>
 <td width="33.3%">
 
 **AVOID UNAPPROVED COLOURS**
 
-![Example Image](improper/unapproved-colours.png)
+<img src="improper/unapproved-colours.png">
+<br>
 Do not use colours outside the approved colour palette for the logo.
+
 </td>
 <td width="33.3%">
 
 **AVOID ADDING GRAPHIC ELEMENTS**
 
-![Example Image](improper/adding-graphic-elements.png)
+<img src="improper/adding-graphic-elements.png">
+<br>
 Do not add any other graphic elements to the logos.
+
 </td>
 </tr>
 </table>
-
-<table>
-<tr>
-
 
 
 
