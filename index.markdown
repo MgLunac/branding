@@ -41,6 +41,32 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre</p>
 
 <table>
 <tr>
+<td width="33.3%">
+
+<h3>COLOURED LOGO</h3>
+
+<img src="images/BrickMMO_Logo_Coloured_Transparent_Background.png">
+
+</td>
+<td width="33.3%">
+
+<h3>MONOTONE LOGO (BLACK)</h3>
+
+<img src="images/BrickMMO_Logo_Black_White_Background.png">
+
+</td>
+<td width="33.3%">
+
+<h3>MONOTONE LOGO (WHITE)</h3>
+
+<img src="images/BrickMMO_Logo_White_Grey_Background.png">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="33.3%" style="background-color:#ff5B00; color:#ffffff;">
 
 CMYK: 0 79 100 0
