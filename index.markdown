@@ -18,7 +18,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <p>In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.</p>
 
-<img src="images/BrickMMO_Logo.png">
+<img src="png/BrickMMO_Logo_Coloured.png">
 
 </td>
 <td width="50%">
@@ -31,7 +31,7 @@ Put the sub-brand name under the logo and the text must be centered.
 <br>
 Sub-brands: Smart Cities / Biologics Manufacturing Centre</p>
 
-<img src="images/BrickMMO_Logo_Sub.png">
+<img src="png/BrickMMO_Logo_Coloured_Sub.png">
 
 </td>
 </tr>
@@ -45,21 +45,21 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre</p>
 
 <h3>COLOURED LOGO</h3>
 
-<img src="images/BrickMMO_Logo_Coloured_Transparent_Background.png">
+<img src="png/BrickMMO_Logo_Coloured_Transparent_Background.png">
 
 </td>
 <td width="33.3%">
 
 <h3>MONOTONE LOGO (BLACK)</h3>
 
-<img src="images/BrickMMO_Logo_Black_White_Background.png">
+<img src="png/BrickMMO_Logo_Black_White_Background.png">
 
 </td>
 <td width="33.3%">
 
 <h3>MONOTONE LOGO (WHITE)</h3>
 
-<img src="images/BrickMMO_Logo_White_Grey_Background.png">
+<img src="png/BrickMMO_Logo_White_Grey_Background.png">
 
 </td>
 </tr>
@@ -107,7 +107,7 @@ HEX: 848484
 
 <p>Opt for the vertical logo in narrow or portrait-oriented spaces and applications, especially on mobile devices, social media profiles, and merchandise items where a vertical orientation fits better within the available space.</p>
 
-<img src="images/BrickMMO_Logo_Coloured.png">
+<img src="png/BrickMMO_Logo_Coloured.png">
 
 </td>
 <td width="50%">
@@ -116,11 +116,34 @@ HEX: 848484
 
 <p>Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.</p>
 
-<img src="images/BrickMMO_Logo_Coloured_Horizontal.png">
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
 
 </td>
 </tr>
 </table>
+
+## DOWNLOADS
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="png/BrickMMO_Logo_Coloured.png">
+
+<h3>Standard Coloured Logo</h3>
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured.png" download>BrickMMO_Logo_Coloured.png</a></li>
+<li><a href="jpg/BrickMMO_Logo_Coloured.jpg" download>BrickMMO_Logo_Coloured.jpg</a></li>
+<li><a href="svg/BrickMMO_Logo_Coloured.svg" download>BrickMMO_Logo_Coloured.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_Coloured.eps" download>BrickMMO_Logo_Coloured.eps</a></li>
+</ul>
+
+
+</td>
+</tr>
+</table>
+
 
 ## IMPROPER USES OF THE LOGO
 
