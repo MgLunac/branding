@@ -71,9 +71,6 @@ HEX: 848484
 </tr>
 </table>
 
-<table>
-<tr>
-
 ## LOGO FORMAT
 
 <table>
