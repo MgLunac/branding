@@ -37,7 +37,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre
 
 <table>
 <tr>
-<td width="33.3%">
+<td width="33.3%" style="background-color:red;">
 
 **COLOURED LOGO**
 
