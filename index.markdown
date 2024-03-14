@@ -16,7 +16,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.
 
-![BrickMMO Logo](images/BrickMMO_Logo.png)
+<img src="images/BrickMMO_Logo.png">
 
 </td>
 <td width="50%">
