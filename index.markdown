@@ -142,12 +142,12 @@ HEX: 848484
 </td>
 <td width="50%">
 
-<img src="png/BrickMMO_Logo_Coloured.png">
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
 
 <h3>Standard Coloured Logo Horizontal</h3>
 
 <ul>
-<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>/BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
 <li><a href="svg/BrickMMO_Logo_Coloured.svg" download>BrickMMO_Logo_Coloured.svg</a></li>
 <li><a href="eps/BrickMMO_Logo_Coloured.eps" download>BrickMMO_Logo_Coloured.eps</a></li>
 </ul>
