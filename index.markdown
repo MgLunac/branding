@@ -59,7 +59,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre</p>
 
 <h3>MONOTONE LOGO (WHITE)</h3>
 
-<img src="png/BrickMMO_Logo_White_Grey_Background.png">
+<img src="png/BrickMMO_Logo_White.png">
 
 </td>
 </tr>
