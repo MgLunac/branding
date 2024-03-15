@@ -128,9 +128,9 @@ HEX: 848484
 <tr>
 <td width="50%">
 
-<img src="png/BrickMMO_Logo_Coloured.png">
-
 <h3>Standard Coloured Logo</h3>
+
+<img src="png/BrickMMO_Logo_Coloured.png">
 
 <ul>
 <li><a href="png/BrickMMO_Logo_Coloured.png" download>BrickMMO_Logo_Coloured.png</a></li>
@@ -142,9 +142,8 @@ HEX: 848484
 </td>
 <td width="50%">
 
-<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
-
 <h3>Standard Coloured Logo Horizontal</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
 
 <ul>
 <li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
@@ -154,9 +153,43 @@ HEX: 848484
 
 
 </td>
+
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%">
+
+<img src="png/BrickMMO_Logo_Coloured.png">
+
+<h3>Standard Logo Black </h3>
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Black.png" download>BrickMMO_Logo_Black.png</a></li>
+<li><a href="svg/BrickMMO_Logo_Black.svg" download>BrickMMO_Logo_Black.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_Black.eps" download>BrickMMO_Logo_Black.epss</a></li>
+</ul>
+
+
+</td>
+<td width="50%">
+
+<h3>Standard Coloured Logo Horizontal</h3>
+
+<img src="png/BrickMMO_Logo_Black.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Black.png" download>png/BrickMMO_Logo_Black.png</a></li>
+<li><a href="svg/BrickMMO_Logo_Coloured.svg" download>BrickMMO_Logo_Coloured.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_Coloured.eps" download>BrickMMO_Logo_Coloured.eps</a></li>
+</ul>
+
+
+</td>
+
+</tr>
+</table>
 
 
 ## IMPROPER USES OF THE LOGO
