@@ -211,10 +211,10 @@ HEX: 848484
 
 <h3>Logo White Horizontal</h3>
 
-<img src="png/BrickMMO_Logo_White_Horizontal_Grey_Background.png">
+<img src="png/BrickMMO_Logo_White_Horizontal.png">
 
 <ul>
-<li><a href="png/BrickMMO_Logo_White_Horizontal_Grey_Background.png" download>png/BrickMMO_Logo_White_Horizontal_Grey_Background.png</a></li>
+<li><a href="png/BrickMMO_Logo_White_Horizontal.png" download>png/BrickMMO_Logo_White_Horizontal.png</a></li>
 <li><a href="svg/BrickMMO_Logo_White_Horizontal.svg" download>BrickMMO_Logo_White_Horizontal.svg</a></li>
 <li><a href="eps/BrickMMO_Logo_White_Horizontal.eps" download>BrickMMO_Logo_White_Horizontal.eps</a></li>
 </ul>
