@@ -168,7 +168,41 @@ HEX: 848484
 <ul>
 <li><a href="png/BrickMMO_Logo_Black.png" download>BrickMMO_Logo_Black.png</a></li>
 <li><a href="svg/BrickMMO_Logo_Black.svg" download>BrickMMO_Logo_Black.svg</a></li>
-<li><a href="eps/BrickMMO_Logo_Black.eps" download>BrickMMO_Logo_Black.epss</a></li>
+<li><a href="eps/BrickMMO_Logo_Black.eps" download>BrickMMO_Logo_Black.eps</a></li>
+</ul>
+
+
+</td>
+<td width="50%">
+
+<h3>Logo Black Horizontal</h3>
+
+<img src="png/BrickMMO_Logo_Black_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Black_Horizontal.png" download>png/BrickMMO_Logo_Black_Horizontal.png</a></li>
+<li><a href="svg/BrickMMO_Logo_Black_Horizontal.svg" download>BrickMMO_Logo_Black_Horizontal.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_Black_Horizontal.eps" download>BrickMMO_Logo_Black_Horizontal.eps</a></li>
+</ul>
+
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>Standard Logo White </h3>
+
+<img src="png/BrickMMO_Logo_White_Grey_Background.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_White_Grey_Background.png" download>BrickMMO_Logo_White_Grey_Background.png</a></li>
+<li><a href="svg/BrickMMO_Logo_White.svg" download>BrickMMO_Logo_White.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_White.eps" download>BrickMMO_Logo_White.eps</a></li>
 </ul>
 
 
