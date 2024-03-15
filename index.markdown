@@ -197,10 +197,10 @@ HEX: 848484
 
 <h3>Standard Logo White </h3>
 
-<img src="png/BrickMMO_Logo_White_Grey_Background.png">
+<img src="png/BrickMMO_Logo_White.png">
 
 <ul>
-<li><a href="png/BrickMMO_Logo_White_Grey_Background.png" download>BrickMMO_Logo_White_Grey_Background.png</a></li>
+<li><a href="png/BrickMMO_Logo_White.png" download>BrickMMO_Logo_White.png</a></li>
 <li><a href="svg/BrickMMO_Logo_White.svg" download>BrickMMO_Logo_White.svg</a></li>
 <li><a href="eps/BrickMMO_Logo_White.eps" download>BrickMMO_Logo_White.eps</a></li>
 </ul>
