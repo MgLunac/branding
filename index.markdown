@@ -163,7 +163,7 @@ HEX: 848484
 
 <h3>Standard Logo Black </h3>
 
-<img src="png/BrickMMO_Logo_Black.pngg">
+<img src="png/BrickMMO_Logo_Black.png">
 
 <ul>
 <li><a href="png/BrickMMO_Logo_Black.png" download>BrickMMO_Logo_Black.png</a></li>
