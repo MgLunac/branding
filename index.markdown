@@ -161,9 +161,9 @@ HEX: 848484
 <tr>
 <td width="50%">
 
-<img src="png/BrickMMO_Logo_Coloured.png">
-
 <h3>Standard Logo Black </h3>
+
+<img src="png/BrickMMO_Logo_Black.pngg">
 
 <ul>
 <li><a href="png/BrickMMO_Logo_Black.png" download>BrickMMO_Logo_Black.png</a></li>
