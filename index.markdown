@@ -134,7 +134,7 @@ HEX: 848484
 
 <ul>
 <li><a href="png/BrickMMO_Logo_Coloured.png" download>BrickMMO_Logo_Coloured.png</a></li>
-<li><a href="jpg/BrickMMO_Logo_Coloured.jpg" download>BrickMMO_Logo_Coloured.jpg</a></li>
+<li><a href="jpg/BrickMMO_Logo_Coloured.svg" download>BrickMMO_Logo_Coloured.svg</a></li>
 <li><a href="eps/BrickMMO_Logo_Coloured.eps" download>BrickMMO_Logo_Coloured.eps</a></li>
 </ul>
 
