@@ -291,6 +291,64 @@ HEX: 848484
 
 ## TYPOGRAPHY
 
+<table class="typography-table">
+    <thead>
+        <tr>
+            <th>Text Style</th>
+            <th>Font Size (px)</th>
+            <th>Font Weight</th>
+            <th>Font Weight</th>
+            <th>Line Height Leading</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="header-row">
+            <td colspan="5">TYPOGRAPHY</td>
+        </tr>
+        <tr class="row-h1">
+            <td>This is H1</td>
+            <td>44px</td>
+            <td>ExtraBold</td>
+            <td>800</td>
+            <td>53</td>
+        </tr>
+        <tr class="row-h2">
+            <td>This is H2</td>
+            <td>36px</td>
+            <td>Extrabold</td>
+            <td>800</td>
+            <td>43</td>
+        </tr>
+        <tr class="row-h3">
+            <td>This is H3</td>
+            <td>32px</td>
+            <td>Extrabold</td>
+            <td>800</td>
+            <td>38</td>
+        </tr>
+        <tr class="row-h4">
+            <td>This is H4</td>
+            <td>28px</td>
+            <td>Bold</td>
+            <td>700</td>
+            <td>34</td>
+        </tr>
+        <tr class="row-h5">
+            <td>This is H5</td>
+            <td>24px</td>
+            <td>Bold</td>
+            <td>700</td>
+            <td>29</td>
+        </tr>
+        <tr class="row-h6">
+            <td>This is H6</td>
+            <td>18px</td>
+            <td>Bold</td>
+            <td>700</td>
+            <td>22</td>
+        </tr>
+        <tr class="row-body1">
+            <td>Body 1 - This is a sample copy for Body one
 
 
 
