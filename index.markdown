@@ -116,7 +116,7 @@ HEX: 848484
 
 <p>Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.</p>
 
-<img src="png//rickMMO_Logo_Coloured_Horizontal.png">
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
 
 </td>
 </tr>
