@@ -265,7 +265,7 @@ HEX: 848484
 
 <img src="improper/altering-typography.png">
 
-<p>Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.</p>
+<p>Keep the logo's original shape and orientation.</p>
 
 </td>
 <td width="33.3%">
@@ -279,7 +279,7 @@ HEX: 848484
 </td>
 <td width="33.3%">
 
-<h3>AVOID ADDING GRAPHIC ELEMENTS</h3>
+<h3>DON'T ADD GRAPHIC ELEMENTS</h3>
 
 <img src="improper/adding-graphic-elements.png">
 
