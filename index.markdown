@@ -241,7 +241,7 @@ HEX: 848484
 </td>
 <td width="33.3%">
 
-<h3>AVOID BACKGROND CLUTTER</h3>
+<h3>AVOID BACKGROUND CLUTTER</h3>
 
 <img src="improper/background-clutter.png">
 
