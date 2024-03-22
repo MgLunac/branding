@@ -295,6 +295,7 @@ HEX: 848484
 
 <a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">Download Lato Family Font from Google Fonts</a>
 
+<a href="Typography.jpg" download>Typography.jpg</a>
 ---
 
 <a href="https://brickmmo.com">
