@@ -45,7 +45,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre</p>
 
 <h3>COLOURED LOGO</h3>
 
-<img src="png/BrickMMO_Logo_Coloured_Transparent_Background.png">
+<img src="png/BrickMMO_Logo_Coloured_Transparent._Background.png">
 
 </td>
 <td width="33.3%">
@@ -116,7 +116,7 @@ HEX: 848484
 
 <p>Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.</p>
 
-<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+<img src="png//rickMMO_Logo_Coloured_Horizontal.png">
 
 </td>
 </tr>
