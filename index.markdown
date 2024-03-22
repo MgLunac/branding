@@ -291,6 +291,9 @@ HEX: 848484
 
 ## TYPOGRAPHY
 
+<a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">Download Lato Family Font from Google Fonts</a>
+
+
 <img src="Typography.jpg">
 
 
