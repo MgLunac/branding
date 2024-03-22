@@ -1,4 +1,4 @@
-# branding
+# BRANDING
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
@@ -52,7 +52,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre</p>
 
 <h3>MONOTONE LOGO (BLACK)</h3>
 
-<img src="png/BrickMMO_Logo_Black_White_Background.png">
+<img src="png/BrickMMO_Logo_Vertical_Black_White_Background.png">
 
 </td>
 <td width="33.3%">
