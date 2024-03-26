@@ -1,4 +1,4 @@
-# branding
+# BRANDING
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
@@ -45,21 +45,21 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre</p>
 
 <h3>COLOURED LOGO</h3>
 
-<img src="png/BrickMMO_Logo_Coloured_Transparent_Background.png">
+<img src="png/BrickMMO_Logo_Coloured.png">
 
 </td>
 <td width="33.3%">
 
 <h3>MONOTONE LOGO (BLACK)</h3>
 
-<img src="png/BrickMMO_Logo_Black_White_Background.png">
+<img src="png/BrickMMO_Logo_Vertical_Black_White_Background.png">
 
 </td>
 <td width="33.3%">
 
 <h3>MONOTONE LOGO (WHITE)</h3>
 
-<img src="png/BrickMMO_Logo_White_Grey_Background.png">
+<img src="png/BrickMMO_Logo_White.png">
 
 </td>
 </tr>
@@ -128,18 +128,100 @@ HEX: 848484
 <tr>
 <td width="50%">
 
-<img src="png/BrickMMO_Logo_Coloured.png">
-
 <h3>Standard Coloured Logo</h3>
+
+<img src="png/BrickMMO_Logo_Coloured.png">
 
 <ul>
 <li><a href="png/BrickMMO_Logo_Coloured.png" download>BrickMMO_Logo_Coloured.png</a></li>
-<li><a href="jpg/BrickMMO_Logo_Coloured.svg" download>BrickMMO_Logo_Coloured.svg</a></li>
+<li><a href="svg/BrickMMO_Logo_Coloured.svg" download>BrickMMO_Logo_Coloured.svg</a></li>
 <li><a href="eps/BrickMMO_Logo_Coloured.eps" download>BrickMMO_Logo_Coloured.eps</a></li>
 </ul>
 
 
 </td>
+<td width="50%">
+
+<h3>Standard Coloured Logo Horizontal</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+<li><a href="svg/BrickMMO_Logo_Coloured.svg" download>BrickMMO_Logo_Coloured.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_Coloured.eps" download>BrickMMO_Logo_Coloured.eps</a></li>
+</ul>
+
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>Standard Logo Black </h3>
+
+<img src="png/BrickMMO_Logo_Black.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Black.png" download>BrickMMO_Logo_Black.png</a></li>
+<li><a href="svg/BrickMMO_Logo_Black.svg" download>BrickMMO_Logo_Black.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_Black.eps" download>BrickMMO_Logo_Black.eps</a></li>
+</ul>
+
+
+</td>
+<td width="50%">
+
+<h3>Logo Black Horizontal</h3>
+
+<img src="png/BrickMMO_Logo_Black_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Black_Horizontal.png" download>png/BrickMMO_Logo_Black_Horizontal.png</a></li>
+<li><a href="svg/BrickMMO_Logo_Black_Horizontal.svg" download>BrickMMO_Logo_Black_Horizontal.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_Black_Horizontal.eps" download>BrickMMO_Logo_Black_Horizontal.eps</a></li>
+</ul>
+
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>Standard Logo White </h3>
+
+<img src="png/BrickMMO_Logo_White.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_White.png" download>BrickMMO_Logo_White.png</a></li>
+<li><a href="svg/BrickMMO_Logo_White.svg" download>BrickMMO_Logo_White.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_White.eps" download>BrickMMO_Logo_White.eps</a></li>
+</ul>
+
+
+</td>
+<td width="50%">
+
+<h3>Logo White Horizontal</h3>
+
+<img src="png/BrickMMO_Logo_White_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_White_Horizontal.png" download>png/BrickMMO_Logo_White_Horizontal.png</a></li>
+<li><a href="svg/BrickMMO_Logo_White_Horizontal.svg" download>BrickMMO_Logo_White_Horizontal.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_White_Horizontal.eps" download>BrickMMO_Logo_White_Horizontal.eps</a></li>
+</ul>
+
+
+</td>
+
 </tr>
 </table>
 
@@ -159,7 +241,7 @@ HEX: 848484
 </td>
 <td width="33.3%">
 
-<h3>AVOID BACKGROND CLUTTER</h3>
+<h3>AVOID BACKGROUND CLUTTER</h3>
 
 <img src="improper/background-clutter.png">
 
@@ -183,7 +265,7 @@ HEX: 848484
 
 <img src="improper/altering-typography.png">
 
-<p>Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.</p>
+<p>Keep the logo's original shape and orientation.</p>
 
 </td>
 <td width="33.3%">
@@ -197,7 +279,7 @@ HEX: 848484
 </td>
 <td width="33.3%">
 
-<h3>AVOID ADDING GRAPHIC ELEMENTS</h3>
+<h3>DON'T ADD GRAPHIC ELEMENTS</h3>
 
 <img src="improper/adding-graphic-elements.png">
 
@@ -206,6 +288,15 @@ HEX: 848484
 </td>
 </tr>
 </table>
+
+## TYPOGRAPHY
+
+<img src="Typography.jpg">
+
+<ul>
+<li><a href="Typography.jpg" download>Typography.jpg</a></li>
+<li><a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">Lato Family Font from Google Fonts</a></li>
+</ul>
 
 ---
 
