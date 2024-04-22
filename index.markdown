@@ -298,6 +298,201 @@ HEX: 848484
 <li><a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">Lato Family Font from Google Fonts</a></li>
 </ul>
 
+## ICONS
+
+<table>
+<tr>
+<td width="33.3%">
+
+<h3>1. Brix Icon</h3>
+
+<img src="png/BrickMMO_Logo_Coloured.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured.png" download>BrickMMO_Logo_Coloured.png</a></li>
+</ul>
+
+
+</td>
+<td width="33.3%">
+
+<h3>2. Navigation Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+
+<td width="33.3%">
+
+<h3>3. Flow Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+<td width="33.3%">
+
+<h3>4. Events Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+</td>
+
+<td width="33.3%">
+
+<h3>5. Radio Station Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+</td>
+
+<td width="33.3%">
+
+<h3>6. Train Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+<td width="33.3%">
+
+<h3>7. Pick a Brick Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+</td>
+
+<td width="33.3%">
+
+<h3>8. Pick a Colour Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+</td>
+
+<td width="33.3%">
+
+<h3>9. Parts Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+</td>
+
+<td width="33.3%">
+
+<h3>10. Power Grid Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+</td>
+
+<td width="33.3%">
+
+<h3>11.Control Panel Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+</td>
+
+<td width="33.3%">
+
+<h3>12. QR Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+</td>
+
+<td width="33.3%">
+
+<h3>13. Timesheets Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+
+</td>
+
+<td width="33.3%">
+
+<h3>14. BrickOverflow Icon</h3>
+<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+
+<ul>
+<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+</ul>
+
+
+</td>
+</tr>
+</table>
+
+
+
 ---
 
 <a href="https://brickmmo.com">
