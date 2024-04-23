@@ -272,7 +272,7 @@ HEX: 848484
 
 <h3>AVOID UNAPPROVED colors</h3>
 
-<img src="improper/unapproved-colors.png">
+<img src="improper/unapproved-colours.png">
 
 <p>Do not use colors outside the approved colour palette for the logo.</p>
 
