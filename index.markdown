@@ -18,7 +18,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <p>In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.</p>
 
-<img src="png/BrickMMO_Logo_colored.png">
+<img src="png/BrickMMO_Logo_Colored.png">
 
 </td>
 <td width="50%">
@@ -31,7 +31,7 @@ Put the sub-brand name under the logo and the text must be centered.
 <br>
 Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 
-<img src="png/BrickMMO_Logo_colored_Sub.png">
+<img src="png/BrickMMO_Logo_Colored_Sub.png">
 
 </td>
 </tr>
@@ -45,7 +45,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 
 <h3>colored LOGO</h3>
 
-<img src="png/BrickMMO_Logo_colored.png">
+<img src="png/BrickMMO_Logo_Colored.png">
 
 </td>
 <td width="33.3%">
@@ -107,7 +107,7 @@ HEX: 848484
 
 <p>Opt for the vertical logo in narrow or portrait-oriented spaces and applications, especially on mobile devices, social media profiles, and merchandise items where a vertical orientation fits better within the available space.</p>
 
-<img src="png/BrickMMO_Logo_colored.png">
+<img src="png/BrickMMO_Logo_Colored.png">
 
 </td>
 <td width="50%">
@@ -116,7 +116,7 @@ HEX: 848484
 
 <p>Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.</p>
 
-<img src="png/BrickMMO_Logo_colored_Horizontal.png">
+<img src="png/BrickMMO_Logo_Colored_Horizontal.png">
 
 </td>
 </tr>
@@ -130,12 +130,12 @@ HEX: 848484
 
 <h3>Standard colored Logo</h3>
 
-<img src="png/BrickMMO_Logo_colored.png">
+<img src="png/BrickMMO_Logo_Colored.png">
 
 <ul>
-<li><a href="png/BrickMMO_Logo_colored.png" download>BrickMMO_Logo_colored.png</a></li>
-<li><a href="svg/BrickMMO_Logo_colored.svg" download>BrickMMO_Logo_colored.svg</a></li>
-<li><a href="eps/BrickMMO_Logo_colored.eps" download>BrickMMO_Logo_colored.eps</a></li>
+<li><a href="png/BrickMMO_Logo_Colored.png" download>BrickMMO_Logo_Colored.png</a></li>
+<li><a href="svg/BrickMMO_Logo_Colored.svg" download>BrickMMO_Logo_Colored.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_Colored.eps" download>BrickMMO_Logo_Colored.eps</a></li>
 </ul>
 
 
@@ -143,12 +143,12 @@ HEX: 848484
 <td width="50%">
 
 <h3>Standard colored Logo Horizontal</h3>
-<img src="png/BrickMMO_Logo_colored_Horizontal.png">
+<img src="png/BrickMMO_Logo_Colored_Horizontal.png">
 
 <ul>
-<li><a href="png/BrickMMO_Logo_colored_Horizontal.png" download>BrickMMO_Logo_colored_Horizontal.png</a></li>
-<li><a href="svg/BrickMMO_Logo_colored.svg" download>BrickMMO_Logo_colored.svg</a></li>
-<li><a href="eps/BrickMMO_Logo_colored.eps" download>BrickMMO_Logo_colored.eps</a></li>
+<li><a href="png/BrickMMO_Logo_Colored_Horizontal.png" download>BrickMMO_Logo_Colored_Horizontal.png</a></li>
+<li><a href="svg/BrickMMO_Logo_Colored.svg" download>BrickMMO_Logo_Colored.svg</a></li>
+<li><a href="eps/BrickMMO_Logo_Colored.eps" download>BrickMMO_Logo_Colored.eps</a></li>
 </ul>
 
 
