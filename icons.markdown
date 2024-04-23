@@ -166,93 +166,37 @@ Please refer to the publications below for the brand guidelines which review the
 <li><a href="12_QR_App_Icon.png" download>12_QR_App_Icon.png</a></li>
 <li><a href="svg/12_QR_App_Icon.svg" download>12_QR_App_Icon.svg</a></li>
 
-</td>
-
-</tr>
-</table>
-
-## LOGO colors
-
-<table>
 <tr>
+
 <td width="33.3%">
 
-<h3>Coloured LOGO</h3>
+<h3>13. TIMESHEETS APP ICON:</h3>
 
-<img src="png/BrickMMO_Logo_Coloured.png">
+<p>This APP is use for....</p>
+
+<img src="13_Timesheets_App_Icon.png">
+
+<li><a href="13_Timesheets_App_Icon.png" download>13_Timesheets_App_Icon.png</a></li>
+<li><a href="svg/13_Timesheets_App_Icon.svg" download>13_Timesheets_App_Icon.svg</a></li>
 
 </td>
+
 <td width="33.3%">
 
-<h3>MONOTONE LOGO (BLACK)</h3>
+<h3>14. BRICKOVERFLOW APP ICON:</h3>
 
-<img src="png/BrickMMO_Logo_Vertical_Black_White_Background.png">
+<p>This APP is use for....</p>
 
-</td>
-<td width="33.3%">
+<img src="11_Control Panel_App_Icon.png">
 
-<h3>MONOTONE LOGO (WHITE)</h3>
-
-<img src="png/BrickMMO_Logo_White.png">
+<li><a href="11_Control Panel_App_Icon.png" download>11_Control Panel_App_Icon.png</a></li>
+<li><a href="svg/11_Control Panel_App_Icon.svg" download>11_Control Panel_App_Icon.svg</a></li>
 
 </td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td width="33.3%" style="background-color:#ff5B00; color:#ffffff;">
-
-CMYK: 0 79 100 0
-<br>  
-RGB: 255 91 0  
-<br>
-HEX: ff5b00
 
 </td>
-<td width="33.3%" style="background-color:#ff0000; color:#ffffff;">
 
-CMYK: 0 99 100 0
-<br>
-RGB: 255 0 0
-<br>
-HEX: ff0000
-
-</td>
-<td width="33.3%" style="background-color:#848484; color:#ffffff;">
-
-CMYK: 51 43 43 6
-<br>
-RGB: 132 132 132
-<br>
-HEX: 848484
-
-</td>
-</tr>
-</table>
-
-## LOGO FORMAT
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>VERTICAL FORMAT:</h3>
-
-<p>Opt for the vertical logo in narrow or portrait-oriented spaces and applications, especially on mobile devices, social media profiles, and merchandise items where a vertical orientation fits better within the available space.</p>
-
-<img src="png/BrickMMO_Logo_Coloured.png">
-
-</td>
-<td width="50%">
-
-<h3>HORIZONTAL FORMAT:</h3>
-
-<p>Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.</p>
-
-<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
-
-</td>
 </tr>
 </table>
 
