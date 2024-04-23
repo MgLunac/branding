@@ -29,7 +29,7 @@ Please refer to the publications below for the brand guidelines which review the
 <br>
 Put the sub-brand name under the logo and the text must be centered. 
 <br>
-Sub-brands: Smart Cities / Biologics Manufacturing Centre</p>
+Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 
 <img src="png/BrickMMO_Logo_Coloured_Sub.png">
 
@@ -37,13 +37,13 @@ Sub-brands: Smart Cities / Biologics Manufacturing Centre</p>
 </tr>
 </table>
 
-## LOGO COLOURS
+## LOGO colors
 
 <table>
 <tr>
 <td width="33.3%">
 
-<h3>COLOURED LOGO</h3>
+<h3>Coloured LOGO</h3>
 
 <img src="png/BrickMMO_Logo_Coloured.png">
 
@@ -270,11 +270,11 @@ HEX: 848484
 </td>
 <td width="33.3%">
 
-<h3>AVOID UNAPPROVED COLOURS</h3>
+<h3>AVOID UNAPPROVED colors</h3>
 
 <img src="improper/unapproved-colours.png">
 
-<p>Do not use colours outside the approved colour palette for the logo.</p>
+<p>Do not use colors outside the approved colour palette for the logo.</p>
 
 </td>
 <td width="33.3%">
@@ -294,7 +294,6 @@ HEX: 848484
 <img src="Typography.jpg">
 
 <ul>
-<li><a href="Typography.jpg" download>Typography.jpg</a></li>
 <li><a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">Lato Family Font from Google Fonts</a></li>
 </ul>
 
