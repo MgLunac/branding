@@ -18,6 +18,7 @@ Please refer to the publications below for the brand guidelines which review the
 <li><a href="png/1_Brix_App_Icon.png" download>1_Brix_App_Icon.png</a></li>
 <li><a href="svg/1_Brix_App_Icon.svg" download>1_Brix_App_Icon.svg</a></li>
 </td>
+
 <td width="33.3%">
 
 <h3>2. NAVIGATION APP ICON:</h3>
@@ -45,7 +46,7 @@ Please refer to the publications below for the brand guidelines which review the
 </tr>
 
 </td>
-
+<tr>
 <td width="33.3%">
 
 <h3>4. EVENTS APP ICON:</h3>
@@ -69,6 +70,60 @@ Please refer to the publications below for the brand guidelines which review the
 
 <li><a href="5_Radio Station_App_Icon.png" download>5_Radio Station_App_Icon.png</a></li>
 <li><a href="svg/5_Radio Station_App_Icon.svg" download>5_Radio Station_App_Icon.svg</a></li>
+
+</td>
+
+<td width="33.3%">
+
+<h3>6. TRAIN APP ICON:</h3>
+
+<p>This APP is use for....</p>
+
+<img src="6_Train_App_Icon.png">
+
+<li><a href="6_Train_App_Icon.png" download>6_Train_App_Icon.png</a></li>
+<li><a href="svg/6_Train_App_Icon.svg" download>6_Train_App_Icon.svg</a></li>
+
+</td>
+
+<tr>
+
+<td width="33.3%">
+
+<h3>7. PICK A BRICK APP ICON:</h3>
+
+<p>This APP is use for....</p>
+
+<img src="7_Pick a Brick_App_Icon.png">
+
+<li><a href="7_Pick a Brick_App_Icon.png" download>7_Pick a Brick_App_Icon.png</a></li>
+<li><a href="svg/7_Pick a Brick_App_Icon.svg" download>7_Pick a Brick_App_Icon.svg</a></li>
+
+</td>
+
+<td width="33.3%">
+
+<h3>8. PICK A COLOUR APP ICON:</h3>
+
+<p>This APP is use for....</p>
+
+<img src="8_Pick a Colour_App_Icon.png">
+
+<li><a href="8_Pick a Colour_App_Icon.png" download>8_Pick a Colour_App_Icon.png</a></li>
+<li><a href="svg/8_Pick a Colour_App_Icon.svg" download>8_Pick a Colour_App_Icon.svg</a></li>
+
+</td>
+
+<td width="33.3%">
+
+<h3>9. PARTS APP ICON:</h3>
+
+<p>This APP is use for....</p>
+
+<img src="9_Parts_App_Icon.png">
+
+<li><a href="9_Parts_App_Icon.png" download>9_Parts_App_Icon.png</a></li>
+<li><a href="svg/9_Parts_App_Icon.svg" download>9_Parts_App_Icon.svg</a></li>
 
 </td>
 
