@@ -43,6 +43,21 @@ Please refer to the publications below for the brand guidelines which review the
 <li><a href="svg/2_Navigation_App_Icon.svg" download>2_Navigation_App_Icon.svg</a></li>
 
 </tr>
+
+</td>
+
+<td width="33.3%">
+
+<h3>4. EVENTS APP ICON:</h3>
+
+<p>This APP is use for....</p>
+
+<img src="4_Events_App_Icon.png">
+
+<li><a href="4_Events_App_Icon.png" download>4_Events_App_Icon.png</a></li>
+<li><a href="svg/4_Events_App_Icon.svg" download>4_Events_App_Icon.svgg</a></li>
+
+</tr>
 </table>
 
 ## LOGO colors
