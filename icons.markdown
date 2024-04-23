@@ -9,24 +9,22 @@ Please refer to the publications below for the brand guidelines which review the
 <tr>
 <td width="33.3%">
 
-<h3>1. Brix Icon:</h3>
+<h3>1. BRIX APP ICON:</h3>
 
-<p>This Icon represents.</p>
+<p>This APP is use for....</p>
 
 <img src="1_Brix_App_Icon.png">
+
+<li><a href="svg/BrickMMO_Logo_White_Horizontal.svg" download>BrickMMO_Logo_White_Horizontal.svg</a></li>
 
 </td>
 <td width="33.3%">
 
-<h3>SUB-BRAND LOGOS:</h3>
+<h3>2. Navigation App Icon:</h3>
 
-<p>Do not use unapproved names.
-<br>
-Put the sub-brand name under the logo and the text must be centered. 
-<br>
-Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
+<p>This APP is use for....</p> 
 
-<img src="png/BrickMMO_Logo_Coloured_Sub.png">
+<img src="2_Navigation_App_Icon.png">
 
 </td>
 
