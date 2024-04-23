@@ -127,6 +127,47 @@ Please refer to the publications below for the brand guidelines which review the
 
 </td>
 
+<tr>
+
+<td width="33.3%">
+
+<h3>10. POWER GRID APP ICON:</h3>
+
+<p>This APP is use for....</p>
+
+<img src="10_Power Grid_App_Icon.png">
+
+<li><a href="10_Power Grid_App_Icon.png" download>10_Power Grid_App_Icon.png</a></li>
+<li><a href="svg/10_Power Grid_App_Icon.svg" download>10_Power Grid_App_Icon.svg</a></li>
+
+</td>
+
+<td width="33.3%">
+
+<h3>11. CONTROL PANEL APP ICON:</h3>
+
+<p>This APP is use for....</p>
+
+<img src="11_Control Panel_App_Icon.png">
+
+<li><a href="11_Control Panel_App_Icon.png" download>11_Control Panel_App_Icon.png</a></li>
+<li><a href="svg/11_Control Panel_App_Icon.svg" download>11_Control Panel_App_Icon.svg</a></li>
+
+</td>
+
+<td width="33.3%">
+
+<h3>12. QR APP ICON:</h3>
+
+<p>This APP is use for....</p>
+
+<img src="12_QR_App_Icon.png">
+
+<li><a href="12_QR_App_Icon.png" download>12_QR_App_Icon.png</a></li>
+<li><a href="svg/12_QR_App_Icon.svg" download>12_QR_App_Icon.svg</a></li>
+
+</td>
+
 </tr>
 </table>
 
