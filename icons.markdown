@@ -40,7 +40,7 @@ Please refer to the publications below for the brand guidelines which review the
 <img src="3_Flow_App_Icon.png">
 
 <li><a href="png/3_Flow_App_Icon.png" download>3_Flow_App_Icon.png</a></li>
-<li><a href="svg/2_Navigation_App_Icon.svg" download>2_Navigation_App_Icon.svg</a></li>
+<li><a href="svg/3_Flow_App_Icon.svg" download>3_Flow_App_Icon.svg</a></li>
 
 </tr>
 
