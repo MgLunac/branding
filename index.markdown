@@ -294,7 +294,6 @@ HEX: 848484
 <img src="Typography.jpg">
 
 <ul>
-<li><a href="Typography.jpg" download>Typography.jpg</a></li>
 <li><a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">Lato Family Font from Google Fonts</a></li>
 </ul>
 
