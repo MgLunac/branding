@@ -15,8 +15,8 @@ Please refer to the publications below for the brand guidelines which review the
 
 <img src="1_Brix_App_Icon.png">
 
-<li><a href="svg/BrickMMO_Logo_White_Horizontal.svg" download>BrickMMO_Logo_White_Horizontal.svg</a></li>
-
+<li><a href="png/1_Brix_App_Icon.png" download>1_Brix_App_Icon.png</a></li>
+<li><a href="svg/1_Brix_App_Icon.svg" download>1_Brix_App_Icon.svg</a></li>
 </td>
 <td width="33.3%">
 
@@ -26,15 +26,21 @@ Please refer to the publications below for the brand guidelines which review the
 
 <img src="2_Navigation_App_Icon.png">
 
+<li><a href="png/2_Navigation_App_Icon.png" download>2_Navigation_App_Icon.png</a></li>
+<li><a href="svg/2_Navigation_App_Icon.svg" download>2_Navigation_App_Icon.svg</a></li>
+
 </td>
 
 <td width="33.3%">
 
-<h3>PRIMARY LOGO:</h3>
+<h3>3. FLOW APP ICON:</h3>
 
-<p>In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.</p>
+<p>This APP is use for....</p>
 
-<img src="png/BrickMMO_Logo_Coloured.png">
+<img src="3_Flow_App_Icon.png">
+
+<li><a href="png/3_Flow_App_Icon.png" download>3_Flow_App_Icon.png</a></li>
+<li><a href="svg/2_Navigation_App_Icon.svg" download>2_Navigation_App_Icon.svg</a></li>
 
 </td>
 </tr>
