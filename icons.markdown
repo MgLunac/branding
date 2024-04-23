@@ -20,7 +20,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="33.3%">
 
-<h3>2. Navigation App Icon:</h3>
+<h3>2. NAVIGATION APP ICON:</h3>
 
 <p>This APP is use for....</p> 
 
