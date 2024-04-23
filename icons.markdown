@@ -187,10 +187,10 @@ Please refer to the publications below for the brand guidelines which review the
 
 <p>This APP is use for....</p>
 
-<img src="11_Control Panel_App_Icon.png">
+<img src="14_BrickOverflow_App_Icon.png">
 
-<li><a href="11_Control Panel_App_Icon.png" download>11_Control Panel_App_Icon.png</a></li>
-<li><a href="svg/11_Control Panel_App_Icon.svg" download>11_Control Panel_App_Icon.svg</a></li>
+<li><a href="14_BrickOverflow_App_Icon.png" download>14_BrickOverflow_App_Icon.png</a></li>
+<li><a href="svg/14_BrickOverflow_App_Icon.svg" download>14_BrickOverflow_App_Icon.svg</a></li>
 
 </td>
 
