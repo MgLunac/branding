@@ -42,7 +42,6 @@ Please refer to the publications below for the brand guidelines which review the
 <li><a href="png/3_Flow_App_Icon.png" download>3_Flow_App_Icon.png</a></li>
 <li><a href="svg/2_Navigation_App_Icon.svg" download>2_Navigation_App_Icon.svg</a></li>
 
-</td>
 </tr>
 </table>
 
