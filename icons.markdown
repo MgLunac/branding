@@ -1,27 +1,22 @@
-# BRANDING
-
+# ICONS OF THE APPS
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-**Welcome to the BrickMMO Brand Guidelines and Standards documentation. This guide is designed to help our team, partners, and the community understand and apply our branding consistently across various media.**
+**Welcome to the BrickMMO Icons of each App of our brand.**
 
-**A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent BrickMMO. We want to communicate to our audiences in a consistent and engaging voice and look.**
-
-Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in your marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
-
-## BRICKMMO LOGOS
+Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
 <table>
 <tr>
-<td width="50%">
+<td width="33.3%">
 
-<h3>PRIMARY LOGO:</h3>
+<h3>1. Brix Icon:</h3>
 
-<p>In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.</p>
+<p>This Icon represents.</p>
 
-<img src="png/BrickMMO_Logo_Coloured.png">
+<img src="1_Brix_App_Icon.png">
 
 </td>
-<td width="50%">
+<td width="33.3%">
 
 <h3>SUB-BRAND LOGOS:</h3>
 
@@ -32,6 +27,16 @@ Put the sub-brand name under the logo and the text must be centered.
 Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 
 <img src="png/BrickMMO_Logo_Coloured_Sub.png">
+
+</td>
+
+<td width="33.3%">
+
+<h3>PRIMARY LOGO:</h3>
+
+<p>In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.</p>
+
+<img src="png/BrickMMO_Logo_Coloured.png">
 
 </td>
 </tr>
