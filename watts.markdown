@@ -20,6 +20,12 @@ Please refer to the publications below for the brand guidelines which review the
 
 <img src="png/BrickMMO_Logo_Coloured.png">
 
+<ul>
+<li><a href="png/Watts Wrong-Primary Logo.png" download>Watts Wrong-Primary Logo.png</a></li>
+<li><a href="svg/Watts Wrong-Primary Logo.svg" download>Watts Wrong-Primary Logo.svg</a></li>
+
+</ul>
+
 </td>
 <td width="50%">
 
