@@ -177,7 +177,7 @@ Please refer to the publications below for the brand guidelines which review the
 <img src="13_Timesheets_App_Icon.png">
 
 <li><a href="13_Timesheets_App_Icon.png" download>13_Timesheets_App_Icon.png</a></li>
-<li><a href="svg/13_Timesheets_App_Icon.svg" download>13_Timesheets_App_Icon.svg</a></li>
+<li><a href="svg/13_Timesheets_App_Icon.svgg" download>13_Timesheets_App_Icon.svg</a></li>
 
 </td>
 
