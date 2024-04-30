@@ -77,7 +77,7 @@ RGB: 255 91 0
 HEX: #ff5b00
 <img src="Orange.jpg" width="100" height="100">
 </td>
-<td width="33.3%" style="background-color:#ff0000; color:#ffffff;">
+<td width="33.3%" style="background-color:#ff5b00; color:#ffffff;">
 
 **RED**
 <br>
