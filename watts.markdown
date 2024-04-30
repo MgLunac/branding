@@ -97,7 +97,9 @@ HEX: #ffffff
 
 ## TYPOGRAPHY
 <img src="Watts Wrong-Typography.jpg">
-
+<ul>
+<li><a href="https://fontzone.net/font-details/ocr-a-extended" target="_blank">Lato Family Font from Google Fonts</a></li>
+</ul>
 
 ---
 
