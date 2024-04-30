@@ -70,9 +70,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 <td width="33.3%" style="background-color:#ff5B00; color:#ffffff;">
 
 CMYK: 0 79 100 0
-<br>  
 RGB: 255 91 0  
-<br>
 HEX: ff5b00
 
 </td>
