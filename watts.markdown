@@ -32,63 +32,54 @@ Please refer to the publications below for the brand guidelines which review the
 </table>
 
 ## WATTS WRONG COLORS 
-
-<table>
+<table style="width:100%;">
 <tr>
-<td width="25%" style="background-color:#ff5B00; color:#ffffff;">
-
-**LIGHT BLUE**
-<br>
-CMYK: 42 6 4 0
-<br>
-RGB: 33 158 188  
-HEX: #219ebc
-<img src="Light Blue.jpg" width="100" height="100">
-</td>
-<td width="25%" style="background-color:#ff5b00; color:#ffffff;">
-
+    <td width="20%" style="background-color:#219ebc; color:#ffffff; text-align:center;">
+**LIGH BLUE**
+        CMYK: 42 6 4 0<br>
+        RGB: 33 158 188<br>
+        HEX: #219ebc<br>
+        <img src="Light Blue.jpg" width="100" height="100">
+    </td>
+    <td width="20%" style="background-color:#023047; color:#ffffff; text-align:center;">
 **DARK BLUE**
-<br>
-CMYK: 2 48 71
-<br>
-RGB: 2 48 71
-<br>
-HEX: #023047
-<br>
-<img src="Dark Blue.jpg" width="100" height="100">
-
-</td>
-<td width="25%" style="background-color:#848484; color:#ffffff;">
-
-**MUSTARD YELLOW**
-<br>
-CMYK: 0 31 100 6
-<br>
-RGB: 255 183 3
-<br>
-HEX: #ffb703
-<img src="Mustard Yellow.jpg" width="100" height="100">
-</td>
-
-**BURNT ORANGE**
-<br>
-CMYK: 18 42 100 1
-<br>
-RGB: 211 151 19
-<br>
-HEX: #d39713
-<img src="Burnt Orange.jpg" width="100" height="100">
-</td>
-
-**WHITE**
-<br>
-CMYK: 0 79 100 0
-<br>
-RGB: 255 255 255
-<br>
-HEX: #ffffff
-<img src="White.jpg" width="100" height="100">
-</td>
+        <br>
+        CMYK: 2 48 71<br>
+        RGB: 2 48 71<br>
+        HEX: #023047<br>
+        <img src="Dark Blue.jpg" width="100" height="100">
+    </td>
+    <td width="20%" style="background-color:#ffb703; color:#ffffff; text-align:center;">
+        **MUSTARD YELLOW**
+        <br>
+        CMYK: 0 31 100 6<br>
+        RGB: 255 183 3<br>
+        HEX: #ffb703<br>
+        <img src="Mustard Yellow.jpg" width="100" height="100">
+    </td>
+    <td width="20%" style="background-color:#d39713; color:#ffffff; text-align:center;">
+        **BURNT ORANGE**<br>
+        CMYK: 18 42 100 1<br>
+        RGB: 211 151 19<br>
+        HEX: #d39713<br>
+        <img src="Burnt Orange.jpg" width="100" height="100">
+    </td>
+    <td width="20%" style="background-color:#ffffff; color:#000000; text-align:center;">
+        **WHITE**<br>
+        CMYK: 0 0 0 0<br>
+        RGB: 255 255 255<br>
+        HEX: #ffffff<br>
+        <img src="White.jpg" width="100" height="100">
+    </td>
 </tr>
 </table>
+
+##TYPOGRAPHY##
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
+
 
