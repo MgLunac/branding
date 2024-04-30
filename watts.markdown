@@ -41,6 +41,7 @@ Please refer to the publications below for the brand guidelines which review the
 CMYK: 42 6 4 0
 <br>
 RGB: 33 158 188  
+<br>
 HEX: #219Ebc
 <img src="Light Blue.jpg" width="100" height="100">
 </td>
@@ -51,9 +52,7 @@ HEX: #219Ebc
 CMYK: 99 75 47 46
 <br>
 RGB: 2 48 71
-<br>
 HEX: #023047
-<br>
 <img src="Dark Blue.jpg" width="100" height="100">
 
 </td>
