@@ -39,7 +39,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 </tr>
 </table>
 
-## Watts Wrong colors
+## WATTS WRONG COLORS 
 
 <table>
 <tr>
@@ -71,30 +71,57 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 <tr>
 <td width="33.3%" style="background-color:#ff5B00; color:#ffffff;">
 
-CMYK: 0 79 100 0
-<br>  
-RGB: 255 91 0  
+**LIGHT BLUE**
 <br>
-HEX: ff5b00
-
+CMYK: 42 6 4 0
+<br>
+RGB: 33 158 188  
+HEX: #219ebc
+<img src="Orange.jpg" width="100" height="100">
 </td>
-<td width="33.3%" style="background-color:#ff0000; color:#ffffff;">
+<td width="33.3%" style="background-color:#ff5b00; color:#ffffff;">
 
-CMYK: 0 99 100 0
+**DARK BLUE**
 <br>
-RGB: 255 0 0
+CMYK: 2 48 71
 <br>
-HEX: ff0000
+RGB: 2 48 71
+<br>
+HEX: #023047
+<br>
+<img src="Red.jpg" width="100" height="100">
 
 </td>
 <td width="33.3%" style="background-color:#848484; color:#ffffff;">
 
-CMYK: 51 43 43 6
+**MUSTARD YELLOW**
 <br>
-RGB: 132 132 132
+CMYK: 0 31 100 6
 <br>
-HEX: 848484
+RGB: 255 183 3
+<br>
+HEX: #ffb703
+<img src="Grey.jpg" width="100" height="100">
+</td>
 
+**BURNT ORANGE**
+<br>
+CMYK: 18 42 100 1
+<br>
+RGB: 211 151 19
+<br>
+HEX: #d39713
+<img src="Grey.jpg" width="100" height="100">
+</td>
+
+**WHITE**
+<br>
+CMYK: 0 79 100 0
+<br>
+RGB: 255 255 255
+<br>
+HEX: #ffffff
+<img src="Grey.jpg" width="100" height="100">
 </td>
 </tr>
 </table>
