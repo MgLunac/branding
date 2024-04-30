@@ -35,7 +35,7 @@ Please refer to the publications below for the brand guidelines which review the
 <table style="width:100%;">
 <tr>
     <td width="20%" style="background-color:#219ebc; color:#ffffff; text-align:center;">
-**LIGH BLUE**
+**LIGHT BLUE**
         CMYK: 42 6 4 0<br>
         RGB: 33 158 188<br>
         HEX: #219ebc<br>
@@ -50,7 +50,7 @@ Please refer to the publications below for the brand guidelines which review the
         <img src="Dark Blue.jpg" width="100" height="100">
     </td>
     <td width="20%" style="background-color:#ffb703; color:#ffffff; text-align:center;">
-        **MUSTARD YELLOW**
+        **MUSTARD YELLOW **
         <br>
         CMYK: 0 31 100 6<br>
         RGB: 255 183 3<br>
@@ -74,7 +74,7 @@ Please refer to the publications below for the brand guidelines which review the
 </tr>
 </table>
 
-##TYPOGRAPHY##
+## TYPOGRAPHY
 
 ---
 
