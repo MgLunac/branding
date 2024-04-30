@@ -18,20 +18,12 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>PRIMARY LOGO:</h3>
 
-<p>In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.</p>
-
 <img src="png/BrickMMO_Logo_Coloured.png">
 
 </td>
 <td width="50%">
 
-<h3>SUB-BRAND LOGOS:</h3>
-
-<p>Do not use unapproved names.
-<br>
-Put the sub-brand name under the logo and the text must be centered. 
-<br>
-Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
+<h3>SECONDARY LOGO:</h3>
 
 <img src="png/BrickMMO_Logo_Coloured_Sub.png">
 
@@ -40,32 +32,6 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 </table>
 
 ## WATTS WRONG COLORS 
-
-<table>
-<tr>
-<td width="33.3%">
-
-<h3>Coloured LOGO</h3>
-
-<img src="png/BrickMMO_Logo_Coloured.png">
-
-</td>
-<td width="33.3%">
-
-<h3>MONOTONE LOGO (BLACK)</h3>
-
-<img src="png/BrickMMO_Logo_Vertical_Black_White_Background.png">
-
-</td>
-<td width="25%">
-
-<h3>MONOTONE LOGO (WHITE)</h3>
-
-<img src="png/BrickMMO_Logo_White.png">
-
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
