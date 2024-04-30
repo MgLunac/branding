@@ -67,7 +67,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 
 <table style="width:100%;">
 <tr>
-<td width="33.3%" style="background-color:#ff5B00; color:#ffffff;">
+<td width="33.3%">
 
 **ORANGE**
 <br>
@@ -77,7 +77,7 @@ RGB: 255 91 0
 HEX: #ff5b00
 <img src="Orange.jpg" width="100" height="100">
 </td>
-<td width="33.3%" style="background-color:#ff5b00; color:#ffffff;">
+<td width="33.3%">
 
 **RED**
 <br>
@@ -90,7 +90,7 @@ HEX: #ff0000
 <img src="Red.jpg" width="100" height="100">
 
 </td>
-<td width="33.3%" style="background-color:#848484; color:#ffffff;">
+<td width="33.3%">
 
 **GREY**
 <br>
