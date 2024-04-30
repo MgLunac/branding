@@ -96,6 +96,8 @@ HEX: #ffffff
 </table>
 
 ## TYPOGRAPHY
+<img src="Watts Wrong-Typography.jpg">
+
 
 ---
 
