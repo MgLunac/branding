@@ -67,7 +67,7 @@ CMYK: 0 31 100 6
 RGB: 255 183 3
 <br>
 HEX: #ffb703
-<img src="Grey.jpg" width="100" height="100">
+<img src="Mustard Yellow.jpg" width="100" height="100">
 </td>
 
 **BURNT ORANGE**
@@ -77,7 +77,7 @@ CMYK: 18 42 100 1
 RGB: 211 151 19
 <br>
 HEX: #d39713
-<img src="Grey.jpg" width="100" height="100">
+<img src="Burnt Orange.jpg" width="100" height="100">
 </td>
 
 **WHITE**
@@ -87,7 +87,7 @@ CMYK: 0 79 100 0
 RGB: 255 255 255
 <br>
 HEX: #ffffff
-<img src="Grey.jpg" width="100" height="100">
+<img src="White.jpg" width="100" height="100">
 </td>
 </tr>
 </table>
