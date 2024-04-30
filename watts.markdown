@@ -18,7 +18,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>PRIMARY LOGO:</h3>
 
-<img src="png/BrickMMO_Logo_Coloured.png">
+<img src="png/Watts Wrong-Primary Logo.png">
 
 <ul>
 <li><a href="png/Watts Wrong-Primary Logo.png" download>Watts Wrong-Primary Logo.png</a></li>
@@ -31,7 +31,13 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>SECONDARY LOGO:</h3>
 
-<img src="png/BrickMMO_Logo_Coloured_Sub.png">
+<img src="png/Watts Wrong-Secondary Logo.png">
+
+<ul>
+<li><a href="png/Watts Wrong-Secondary Logo.png" download>Watts Wrong-Secondary Logo.png</a></li>
+<li><a href="svg/Watts Wrong-Primary Logo.svg" download>Watts Wrong-Primary Logo.svg</a></li>
+
+</ul>
 
 </td>
 </tr>
