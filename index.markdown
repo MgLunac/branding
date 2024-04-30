@@ -37,7 +37,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 </tr>
 </table>
 
-## LOGO colors
+## LOGO COLORS
 
 <table>
 <tr>
@@ -70,6 +70,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 <td width="33.3%" style="background-color:#ff5B00; color:#ffffff;">
 
 CMYK: 0 79 100 0
+<br>
 RGB: 255 91 0  
 HEX: #ff5b00
 <img src="Orange.jpg">
@@ -91,7 +92,7 @@ CMYK: 51 43 43 6
 RGB: 132 132 132
 <br>
 HEX: #848484
-
+<img src="Grey.jpg">
 </td>
 </tr>
 </table>
