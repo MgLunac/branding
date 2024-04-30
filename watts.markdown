@@ -1,4 +1,4 @@
-# WATTS WRONG BRANDING
+# WATTS WRONG CORPORATION BRANDING
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
@@ -10,7 +10,7 @@
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
-## WATTS WRONG LOGOS
+## WATTS WRONG CORPORATION LOGOS
 
 <table>
 <tr>
@@ -57,7 +57,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 <img src="png/BrickMMO_Logo_Vertical_Black_White_Background.png">
 
 </td>
-<td width="33.3%">
+<td width="25%">
 
 <h3>MONOTONE LOGO (WHITE)</h3>
 
@@ -69,7 +69,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 
 <table>
 <tr>
-<td width="33.3%" style="background-color:#ff5B00; color:#ffffff;">
+<td width="25%" style="background-color:#ff5B00; color:#ffffff;">
 
 **LIGHT BLUE**
 <br>
@@ -77,9 +77,9 @@ CMYK: 42 6 4 0
 <br>
 RGB: 33 158 188  
 HEX: #219ebc
-<img src="Orange.jpg" width="100" height="100">
+<img src="Light Blue.jpg" width="100" height="100">
 </td>
-<td width="33.3%" style="background-color:#ff5b00; color:#ffffff;">
+<td width="25%" style="background-color:#ff5b00; color:#ffffff;">
 
 **DARK BLUE**
 <br>
@@ -89,10 +89,10 @@ RGB: 2 48 71
 <br>
 HEX: #023047
 <br>
-<img src="Red.jpg" width="100" height="100">
+<img src="Dark Blue.jpg" width="100" height="100">
 
 </td>
-<td width="33.3%" style="background-color:#848484; color:#ffffff;">
+<td width="25%" style="background-color:#848484; color:#ffffff;">
 
 **MUSTARD YELLOW**
 <br>
