@@ -21,8 +21,8 @@ Please refer to the publications below for the brand guidelines which review the
 <img src="Watts Wrong-Primary Logo.png">
 
 <ul>
-<li><a href="png/Watts Wrong-Primary Logo.png" download>Watts Wrong-Primary Logo.png</a></li>
-<li><a href="svg/Watts Wrong-Primary Logo.svg" download>Watts Wrong-Primary Logo.svg</a></li>
+<li><a href="Watts Wrong-Primary Logo.png" download>Watts Wrong-Primary Logo.png</a></li>
+<li><a href="Watts Wrong-Primary Logo.svg" download>Watts Wrong-Primary Logo.svg</a></li>
 
 </ul>
 
@@ -34,8 +34,8 @@ Please refer to the publications below for the brand guidelines which review the
 <img src="Watts Wrong-Secondary Logo.png">
 
 <ul>
-<li><a href="png/Watts Wrong-Secondary Logo.png" download>Watts Wrong-Secondary Logo.png</a></li>
-<li><a href="svg/Watts Wrong-Primary Logo.svg" download>Watts Wrong-Primary Logo.svg</a></li>
+<li><a href="Watts Wrong-Secondary Logo.png" download>Watts Wrong-Secondary Logo.png</a></li>
+<li><a href="Watts Wrong-Primary Logo.svg" download>Watts Wrong-Primary Logo.svg</a></li>
 
 </ul>
 
