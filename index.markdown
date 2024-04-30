@@ -299,7 +299,7 @@ HEX: 848484
 
 ## LINKS
 
-[Texto del enlace](icons.markdown)
+[Icons of the APPS](icons)
 
 
 ---
