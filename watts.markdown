@@ -50,19 +50,23 @@ Please refer to the publications below for the brand guidelines which review the
 <tr>
 <td width="20%">
 
-**LIGHT BLUE**
+<strong>LIGHT BLUE</strong>
 <br>
 CMYK: 42 6 4 0
+<br>
 RGB: 33 158 188  
+<br>
 HEX: #219Ebc
+<br>
 <img src="watts/colours/Light_Blue.jpg" width="100" height="100">
 </td>
 <td width="20%">
 
-**DARK BLUE**
+<strong>DARK BLUE</strong>
 CMYK: 99 75 47 46
 <br>
 RGB: 2 48 71
+<br>
 HEX: #023047
 <br>
 <img src="watts/colours/Dark_Blue.jpg" width="100" height="100">
@@ -70,13 +74,14 @@ HEX: #023047
 </td>
 <td width="20%">
 
-**MUSTARD YELLOW**
+<strong>MUSTARD YELLOW</strong>
 <br>
 CMYK: 0 79 100 0
 <br>
 RGB: 255 183 3
 <br>
 HEX: #ffb703
+<br>
 <img src="watts/colours/Mustard_Yellow.jpg" width="100" height="100">
 </td>
 
@@ -89,6 +94,7 @@ CMYK: 18 42 100 1
 RGB: 211 151 19
 <br>
 HEX: #d39713
+<br>
 <img src="watts/colours/Burnt_Orange.jpg" width="100" height="100">
 </td>
 
