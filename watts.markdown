@@ -118,11 +118,11 @@ HEX: #ffffff
 </table>
 
 ## TYPOGRAPHY
+
 <img src="watts/images/Watts_Wrong_Typography.jpg">
-<ul>
-<li><a href="https://fontzone.net/font-details/ocr-a-extended" target="_blank">OCR A Extended Font from Fontzone</a></li>
-<li><a href="https://www.whatfontis.com/NFC_Piepie-Regular.font)" target="_blank"> Piepie Font from Whatfontis</a></li>
-</ul>
+
+- <a href="https://fontzone.net/font-details/ocr-a-extended" target="_blank">OCR A Extended Font from Fontzone</a>
+- <a href="https://www.whatfontis.com/NFC_Piepie-Regular.font)" target="_blank"> Piepie Font from Whatfontis</a>
 
 ---
 

@@ -298,7 +298,7 @@ HEX: #848484
 
 <img src="images/BrickMMO_Typography.jpg">
 
-- <a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">Lato Family Font from Google Fonts</a></li>
+- <a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">Lato Family Font from Google Fonts</a>
 
 ## LINKS
 
