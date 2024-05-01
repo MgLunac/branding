@@ -6,8 +6,8 @@
 
 Content...
 
-- [Watts Wrong]("watts")
-- [96.9 Lively Radio]("lively")
+- [Watts Wrong](/watts)
+- [96.9 Lively Radio](/lively)
 
 Can yo make this list a nice tbale with the main logo for each brand?
 
