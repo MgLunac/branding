@@ -1,6 +1,8 @@
-# WATTS WRONG CORPORATION BRANDING
-
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
+
+[Home]("/") / [In World Brands]("world") / Watts Wrong Brand Guidlines
+
+## Watts Wrong Brand Guidelines
 
 **Welcome to the Watts Wrong Brand Guidelines and Standards documentation. This guide is designed to help our team, partners, and the community understand and apply our branding consistently across various media.**
 
