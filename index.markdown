@@ -77,7 +77,7 @@ RGB: 255 91 0
 <br>
 HEX: #ff5b00
 <br>
-<img src="colours/range.jpg" width="100" height="100">
+<img src="colours/Orange.jpg" width="100" height="100">
 </td>
 <td width="33.3%">
 
