@@ -20,11 +20,11 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>PRIMARY LOGO:</h3>
 
-<img src="Watts Wrong-Primary Logo.png">
+<img src="watts/png/Watts_Wrong_Primary_Logo.png">
 
 <ul>
-<li><a href="Watts Wrong-Primary Logo.png" download>Watts Wrong-Primary Logo.png</a></li>
-<li><a href="Watts Wrong-Primary Logo.svg" download>Watts Wrong-Primary Logo.svg</a></li>
+<li><a href="watts/png/Watts_Wrong_Primary_Logo.png" download>Watts_Wrong_Primary_Logo.png</a></li>
+<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>Watts_Wrong_Primary_Logo.svg</a></li>
 
 </ul>
 
@@ -33,11 +33,11 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>SECONDARY LOGO:</h3>
 
-<img src="Watts Wrong-Secondary Logo.png">
+<img src="watts/png/Watts_Wrong_Secondary_Logo.png">
 
 <ul>
-<li><a href="Watts Wrong-Secondary Logo.png" download>Watts Wrong-Secondary Logo.png</a></li>
-<li><a href="Watts Wrong-Primary Logo.svg" download>Watts Wrong-Primary Logo.svg</a></li>
+<li><a href="watts/png/Watts_Wrong_Secondary_Logo.png" download>Watts_Wrong_Secondary_Logo.png</a></li>
+<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>WWatts_Wrong_Primary_Logo.svg</a></li>
 
 </ul>
 
@@ -55,7 +55,7 @@ Please refer to the publications below for the brand guidelines which review the
 CMYK: 42 6 4 0
 RGB: 33 158 188  
 HEX: #219Ebc
-<img src="Light Blue.jpg" width="100" height="100">
+<img src="watts/colours/Light_Blue.jpg" width="100" height="100">
 </td>
 <td width="20%">
 
@@ -65,7 +65,7 @@ CMYK: 99 75 47 46
 RGB: 2 48 71
 HEX: #023047
 <br>
-<img src="Dark Blue.jpg" width="100" height="100">
+<img src="watts/colours/Dark_Blue.jpg" width="100" height="100">
 
 </td>
 <td width="20%">
@@ -77,7 +77,7 @@ CMYK: 0 79 100 0
 RGB: 255 183 3
 <br>
 HEX: #ffb703
-<img src="Mustard Yellow.jpg" width="100" height="100">
+<img src="watts/colours/Mustard_Yellow.jpg" width="100" height="100">
 </td>
 
 <td width="20%">
@@ -89,7 +89,7 @@ CMYK: 18 42 100 1
 RGB: 211 151 19
 <br>
 HEX: #d39713
-<img src="Burnt Orange.jpg" width="100" height="100">
+<img src="watts/colours/Burnt_Orange.jpg" width="100" height="100">
 </td>
 
 <td width="20%">
@@ -101,13 +101,13 @@ CMYK: 0 0 0 0
 RGB: 255 255 255
 <br>
 HEX: #ffffff
-<img src="White.jpg" width="100" height="100">
+<img src="watts/colours/White.jpg" width="100" height="100">
 </td>
 </tr>
 </table>
 
 ## TYPOGRAPHY
-<img src="Watts Wrong-Typography.jpg">
+<img src="watts/images/Watts_Wrong_Typography.jpg">
 <ul>
 <li><a href="https://fontzone.net/font-details/ocr-a-extended" target="_blank">OCR A Extended Font from Fontzone</a></li>
 <li><a href="https://www.whatfontis.com/NFC_Piepie-Regular.font)" target="_blank"> Piepie Font from Whatfontis</a></li>
