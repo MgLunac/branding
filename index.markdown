@@ -1,4 +1,4 @@
-# BRANDING
+# branding
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
@@ -14,7 +14,7 @@ Please refer to the publications below for the brand guidelines which review the
 <tr>
 <td width="50%">
 
-<h3>PRIMARY LOGO:</h3>
+<h3>Primary Logo:</h3>
 
 <p>In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.</p>
 
@@ -23,7 +23,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="50%">
 
-<h3>SUB-BRAND LOGOS:</h3>
+<h3>Sub-Brand Logos:</h3>
 
 <p>Do not use unapproved names.
 <br>
@@ -37,27 +37,27 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 </tr>
 </table>
 
-## LOGO COLORS
+## LOGO COLOURS
 
 <table>
 <tr>
 <td width="33.3%">
 
-<h3>Coloured LOGO</h3>
+<h3>Coloured Logo</h3>
 
 <img src="png/BrickMMO_Logo_Coloured.png">
 
 </td>
 <td width="33.3%">
 
-<h3>MONOTONE LOGO (BLACK)</h3>
+<h3>Monotone Logo (Black)</h3>
 
 <img src="png/BrickMMO_Logo_Vertical_Black_White_Background.png">
 
 </td>
 <td width="33.3%">
 
-<h3>MONOTONE LOGO (WHITE)</h3>
+<h3>Monotone Logo (White)</h3>
 
 <img src="png/BrickMMO_Logo_White.png">
 
@@ -110,7 +110,7 @@ HEX: #848484
 <tr>
 <td width="50%">
 
-<h3>VERTICAL FORMAT:</h3>
+<h3>Vertical Format:</h3>
 
 <p>Opt for the vertical logo in narrow or portrait-oriented spaces and applications, especially on mobile devices, social media profiles, and merchandise items where a vertical orientation fits better within the available space.</p>
 
@@ -119,7 +119,7 @@ HEX: #848484
 </td>
 <td width="50%">
 
-<h3>HORIZONTAL FORMAT:</h3>
+<h3>Horizontal Format:</h3>
 
 <p>Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.</p>
 
@@ -239,7 +239,7 @@ HEX: #848484
 <tr>
 <td width="33.3%">
 
-<h3>DISTORTION</h3>
+<h3>Distortion</h3>
 
 <img src="improper/distortion.png">
 
@@ -248,7 +248,7 @@ HEX: #848484
 </td>
 <td width="33.3%">
 
-<h3>AVOID BACKGROUND CLUTTER</h3>
+<h3>Avoid Background Clutter</h3>
 
 <img src="improper/background-clutter.png">
 
@@ -257,7 +257,7 @@ HEX: #848484
 </td>
 <td width="33.3%">
 
-<h3>DON'T MODIFY DESIGN ELEMENT</h3>
+<h3>Don't Modify Design Element</h3>
 
 <img src="improper/modify-elements.png">
 
@@ -268,7 +268,7 @@ HEX: #848484
 <tr>
 <td width="33.3%">
 
-<h3>AVOID ALTERING TYPOGRAPHY</h3>
+<h3>Avoid Altering Typography</h3>
 
 <img src="improper/altering-typography.png">
 
@@ -277,16 +277,16 @@ HEX: #848484
 </td>
 <td width="33.3%">
 
-<h3>AVOID UNAPPROVED colors</h3>
+<h3>Avoid Unapproved Colours</h3>
 
 <img src="improper/unapproved-colours.png">
 
-<p>Do not use colors outside the approved colour palette for the logo.</p>
+<p>Do not use colours outside the approved colour palette for the logo.</p>
 
 </td>
 <td width="33.3%">
 
-<h3>DON'T ADD GRAPHIC ELEMENTS</h3>
+<h3>Don't Add Graphic Elements</h3>
 
 <img src="improper/adding-graphic-elements.png">
 
@@ -298,7 +298,7 @@ HEX: #848484
 
 ## TYPOGRAPHY
 
-<img src="Typography.jpg">
+<img src="images/Typography.jpg">
 
 - <a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">Lato Family Font from Google Fonts</a></li>
 
@@ -307,7 +307,6 @@ HEX: #848484
 - [App Icons](icons)
 - [In World Brands](world)
 - [Stacks](stacks)
-
 
 ---
 
