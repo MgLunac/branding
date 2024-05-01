@@ -103,6 +103,7 @@ RGB: 132 132 132
 HEX: #848484
 <br>
 <img src="colours/Grey.jpg" width="100" height="100">
+
 </td>
 </tr>
 </table>
