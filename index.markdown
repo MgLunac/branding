@@ -6,7 +6,7 @@
 
 **A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent BrickMMO. We want to communicate to our audiences in a consistent and engaging voice and look.**
 
-Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in your marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
+Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
 ## BRICKMMO LOGOS
 
@@ -37,7 +37,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 </tr>
 </table>
 
-## LOGO colors
+## LOGO COLORS
 
 <table>
 <tr>
@@ -65,34 +65,41 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 </tr>
 </table>
 
-<table>
+<table style="width:100%;">
 <tr>
-<td width="33.3%" style="background-color:#ff5B00; color:#ffffff;">
+<td width="33.3%">
 
-CMYK: 0 79 100 0
-<br>  
-RGB: 255 91 0  
+**ORANGE**
 <br>
-HEX: ff5b00
-
+CMYK: 0 79 100 0
+<br>
+RGB: 255 91 0  
+HEX: #ff5b00
+<img src="Orange.jpg" width="100" height="100">
 </td>
-<td width="33.3%" style="background-color:#ff0000; color:#ffffff;">
+<td width="33.3%">
 
+**RED**
+<br>
 CMYK: 0 99 100 0
 <br>
 RGB: 255 0 0
 <br>
-HEX: ff0000
+HEX: #ff0000
+<br>
+<img src="Red.jpg" width="100" height="100">
 
 </td>
-<td width="33.3%" style="background-color:#848484; color:#ffffff;">
+<td width="33.3%">
 
+**GREY**
+<br>
 CMYK: 51 43 43 6
 <br>
 RGB: 132 132 132
 <br>
-HEX: 848484
-
+HEX: #848484
+<img src="Grey.jpg" width="100" height="100">
 </td>
 </tr>
 </table>
@@ -296,6 +303,11 @@ HEX: 848484
 <ul>
 <li><a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">Lato Family Font from Google Fonts</a></li>
 </ul>
+
+## LINKS
+
+[Icons of the APPS](icons)
+
 
 ---
 
