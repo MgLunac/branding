@@ -11,7 +11,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>1. BRIX APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/1_Brix_App_Icon.png">
 
@@ -23,7 +23,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>2. NAVIGATION APP ICON:</h3>
 
-<p>This APP is use for....</p> 
+ 
 
 <img src="icons/png/2_Navigation_App_Icon.png">
 
@@ -36,7 +36,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>3. FLOW APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/3_Flow_App_Icon.png">
 
@@ -51,7 +51,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>4. EVENTS APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/4_Events_App_Icon.png">
 
@@ -64,7 +64,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>5. RADIO STATION APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/5_Radio_App_Icon.png">
 
@@ -77,7 +77,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>6. TRAIN APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/6_Train_App_Icon.png">
 
@@ -92,7 +92,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>7. PICK A BRICK APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/7_Pick_A_Brick_App_Icon.png">
 
@@ -105,7 +105,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>8. COLOURS APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/8_Colours_App_Icon.png">
 
@@ -118,7 +118,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>9. PARTS APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/9_Parts_App_Icon.png">
 
@@ -133,7 +133,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>10. POWER GRID APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/10_Power_Grid_App_Icon.png">
 
@@ -146,7 +146,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>11. CONTROL PANEL APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/11_Control_Panel_App_Icon.png">
 
@@ -159,7 +159,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>12. QR APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/12_QR_App_Icon.png">
 
@@ -172,7 +172,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>13. TIMESHEETS APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/13_Timesheets_App_Icon.png">
 
@@ -185,7 +185,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>14. BRICKOVERFLOW APP ICON:</h3>
 
-<p>This APP is use for....</p>
+
 
 <img src="icons/png/14_BrickOverflow_App_Icon.png">
 
