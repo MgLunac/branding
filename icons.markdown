@@ -66,10 +66,10 @@ Please refer to the publications below for the brand guidelines which review the
 
 <p>This APP is use for....</p>
 
-<img src="icons/png/5_Radio Station_App_Icon.png">
+<img src="icons/png/5_Radio_App_Icon.png">
 
-<li><a href="icons/png/5_Radio Station_App_Icon.png" download>5_Radio Station_App_Icon.png</a></li>
-<li><a href="icons/svg/5_Radio Station_App_Icon.svg" download>5_Radio Station_App_Icon.svg</a></li>
+<li><a href="icons/png/5_Radio_App_Icon.png" download>5_Radio_App_Icon.png</a></li>
+<li><a href="icons/svg/5_Radio_App_Icon.svg" download>5_Radio_App_Icon.svg</a></li>
 
 </td>
 
@@ -94,10 +94,10 @@ Please refer to the publications below for the brand guidelines which review the
 
 <p>This APP is use for....</p>
 
-<img src="icons/png/7_Pick a Brick_App_Icon.png">
+<img src="icons/png/7_Pic_A_Brick_App_Icon.png">
 
-<li><a href="icons/png/7_Pick a Brick_App_Icon.png" download>7_Pick a Brick_App_Icon.png</a></li>
-<li><a href="icons/svg/7_Pick a Brick_App_Icon.svg" download>7_Pick a Brick_App_Icon.svg</a></li>
+<li><a href="icons/png/7_Pic_A_Brick_App_Icon.png" download>7_Pic_A_Brick_App_Icon.png</a></li>
+<li><a href="icons/svg/7_Pic_A_Brick_App_Icon.svg" download>7_Pic_A_Brick_App_Icon.svg</a></li>
 
 </td>
 
@@ -107,10 +107,10 @@ Please refer to the publications below for the brand guidelines which review the
 
 <p>This APP is use for....</p>
 
-<img src="icons/png/8_Pick a Colour_App_Icon.png">
+<img src="icons/png/8_Colours_App_Icon.png">
 
-<li><a href="icons/png/8_Pick a Colour_App_Icon.png" download>8_Pick a Colour_App_Icon.png</a></li>
-<li><a href="icons/svg/8_Pick a Colour_App_Icon.svg" download>8_Pick a Colour_App_Icon.svg</a></li>
+<li><a href="icons/png/8_Colours_App_Icon.png" download>8_Colours_App_Icon.png</a></li>
+<li><a href="icons/svg/8_Colours_App_Icon.svg" download>8_Colours_App_Icon.svg</a></li>
 
 </td>
 
@@ -135,10 +135,10 @@ Please refer to the publications below for the brand guidelines which review the
 
 <p>This APP is use for....</p>
 
-<img src="icons/png/10_Power Grid_App_Icon.png">
+<img src="icons/png/10_Power_Grid_App_Icon.png">
 
-<li><a href="icons/png/0_Power Grid_App_Icon.png" download>10_Power Grid_App_Icon.png</a></li>
-<li><a href="icons/svg/10_Power Grid_App_Icon.svg" download>10_Power Grid_App_Icon.svg</a></li>
+<li><a href="icons/png/0_Power_Grid_App_Icon.png" download>10_Power_Grid_App_Icon.png</a></li>
+<li><a href="icons/svg/10_Power_Grid_App_Icon.svg" download>10_Power_Grid_App_Icon.svg</a></li>
 
 </td>
 
@@ -148,10 +148,10 @@ Please refer to the publications below for the brand guidelines which review the
 
 <p>This APP is use for....</p>
 
-<img src="icons/png/11_Control Panel_App_Icon.png">
+<img src="icons/png/11_Control_Panel_App_Icon.png">
 
-<li><a href="icons/png/11_Control Panel_App_Icon.png" download>11_Control Panel_App_Icon.png</a></li>
-<li><a href="icons/svg/11_Control Panel_App_Icon.svg" download>11_Control Panel_App_Icon.svg</a></li>
+<li><a href="icons/png/11_Control_Panel_App_Icon.png" download>11_Control_Panel_App_Icon.png</a></li>
+<li><a href="icons/svg/11_Control_Panel_App_Icon.svg" download>11_Control_Panel_App_Icon.svg</a></li>
 
 </td>
 
