@@ -162,9 +162,6 @@ HEX: #848484
 </td>
 
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%">
 
@@ -196,9 +193,6 @@ HEX: #848484
 </td>
 
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%">
 
