@@ -75,7 +75,7 @@ CMYK: 0 79 100 0
 <br>
 RGB: 255 91 0  
 HEX: #ff5b00
-<img src="Orange.jpg" width="100" height="100">
+<img src="colours/range.jpg" width="100" height="100">
 </td>
 <td width="33.3%">
 
@@ -87,7 +87,7 @@ RGB: 255 0 0
 <br>
 HEX: #ff0000
 <br>
-<img src="Red.jpg" width="100" height="100">
+<img src="colours/Red.jpg" width="100" height="100">
 
 </td>
 <td width="33.3%">
@@ -99,7 +99,7 @@ CMYK: 51 43 43 6
 RGB: 132 132 132
 <br>
 HEX: #848484
-<img src="Grey.jpg" width="100" height="100">
+<img src="colours/Grey.jpg" width="100" height="100">
 </td>
 </tr>
 </table>
