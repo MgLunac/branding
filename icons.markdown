@@ -94,16 +94,16 @@ Please refer to the publications below for the brand guidelines which review the
 
 <p>This APP is use for....</p>
 
-<img src="icons/png/7_Pic_A_Brick_App_Icon.png">
+<img src="icons/png/7_Pick_A_Brick_App_Icon.png">
 
-<li><a href="icons/png/7_Pic_A_Brick_App_Icon.png" download>7_Pic_A_Brick_App_Icon.png</a></li>
-<li><a href="icons/svg/7_Pic_A_Brick_App_Icon.svg" download>7_Pic_A_Brick_App_Icon.svg</a></li>
+<li><a href="icons/png/7_Pick_A_Brick_App_Icon.png" download>7_Pick_A_Brick_App_Icon.png</a></li>
+<li><a href="icons/svg/7_Pick_A_Brick_App_Icon.svg" download>7_Pick_A_Brick_App_Icon.svg</a></li>
 
 </td>
 
 <td width="33.3%">
 
-<h3>8. PICK A COLOUR APP ICON:</h3>
+<h3>8. COLOURS APP ICON:</h3>
 
 <p>This APP is use for....</p>
 
