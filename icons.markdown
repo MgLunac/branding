@@ -1,6 +1,6 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-[Home]("/") / App Icons
+[Home](/) / App Icons
 
 ## BrickMMO App Icons
 

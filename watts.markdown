@@ -1,6 +1,6 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-[Home]("/") / [In World Brands]("world") / Watts Wrong Brand Guidlines
+[Home](/) / [In World Brands]("world") / Watts Wrong Brand Guidlines
 
 ## Watts Wrong Brand Guidelines
 

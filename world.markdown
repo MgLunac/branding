@@ -2,7 +2,7 @@
 
 ## BrickMMO In World Brands
 
-[Home]("/") / In World Brands
+[Home](/) / In World Brands
 
 Content...
 

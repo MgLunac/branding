@@ -1,6 +1,6 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-[Home]("/") / [In World Brands]("world") / 96.9 Lively Radio Brand Guidlines
+[Home](/) / [In World Brands](/world) / 96.9 Lively Radio Brand Guidlines
 
 ## 96.9 Lively Radio Branding Guidelines
 
