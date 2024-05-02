@@ -6,10 +6,29 @@
 
 Content...
 
-- [Watts Wrong](/watts)
-- [96.9 Lively Radio](/lively)
+<table style="width:100%;">
+<tr>
+<td width="50%">
 
-Can yo make this list a nice tbale with the main logo for each brand?
+<h3>1. WATTS WRONG:</h3>
+
+<img src="Watts Wrong-Primary Logo.png">
+
+- [Watts Wrong](/watts)
+</td>
+
+<td width="50%">
+
+<h3>2. 96.9 LIVELY STATION:</h3>
+
+<img src="Watts Wrong-Primary Logo.png">
+
+- [96.9 Livley Station](lively.markdown)
+
+</td>
+
+</tr>
+</table>
 
 ---
 

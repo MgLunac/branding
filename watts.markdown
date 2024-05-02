@@ -45,7 +45,7 @@ Please refer to the publications below for the brand guidelines which review the
 </tr>
 </table>
 
-## WATTS WRONG COLORS 
+## WATTS WRONG COLOURS 
 
 <table style="width:100%;">
 <tr>
