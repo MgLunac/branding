@@ -306,8 +306,8 @@ HEX: #848484
 
 ## LINKS
 <ul>
-<li>[Icons of the APPS](icons)</li>
-<li>[In World Brands](world.markdown)</li>
+<li> [Icons of the APPS](icons) </li>
+<li> [In World Brands](world.markdown) </li>
 </ul>
 
 ---
