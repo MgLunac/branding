@@ -83,6 +83,19 @@ Please refer to the publications below for the brand guidelines which review the
 <li><a href="7_Pick a Brick.svg" download>7_Pick a Brick.svg</a></li>
 
 </td>
+
+</td>
+
+<td width="25%">
+
+<h3>8. COLOURS:</h3>
+
+<img src="8_Colours.png">
+
+<li><a href="8_Colours.png" download>8_Colours.png</a></li>
+<li><a href="8_Colours.svg" download>8_Colours.svg</a></li>
+
+</td>
 </tr>
 </table>
 
