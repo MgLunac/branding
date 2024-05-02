@@ -5,9 +5,9 @@
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
-<table>
+<table style="width:100%;">
 <tr>
-<td width="33.3%">
+<td width="25%">
 
 <h3>1. BRIX:</h3>
 
@@ -17,7 +17,7 @@ Please refer to the publications below for the brand guidelines which review the
 <li><a href="svg/1_Brix_App_Icon.svg" download>1_Brix_App_Icon.svg</a></li>
 </td>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>2. NAVIGATION:</h3>
 
@@ -28,7 +28,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 </td>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>3. FLOW:</h3>
 
@@ -41,7 +41,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 </td>
 <tr>
-<td width="33.3%">
+<td width="25%">
 
 <h3>4. EVENTS:</h3>
 
@@ -52,7 +52,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 </td>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>5. RADIO STATION:</h3>
 
@@ -63,7 +63,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 </td>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>6. TRAIN:</h3>
 
@@ -76,7 +76,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <tr>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>7. PICK A BRICK:</h3>
 
@@ -87,7 +87,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 </td>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>8. COLOURS:</h3>
 
@@ -98,7 +98,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 </td>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>9. PARTS:</h3>
 
@@ -111,7 +111,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <tr>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>10. POWER GRID:</h3>
 
@@ -122,7 +122,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 </td>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>11. CONTROL PANEL:</h3>
 
@@ -133,7 +133,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 </td>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>12. QR:</h3>
 
@@ -144,7 +144,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <tr>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>13. TIMESHEETS:</h3>
 
@@ -155,7 +155,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 </td>
 
-<td width="33.3%">
+<td width="25%">
 
 <h3>14. BRICKOVERFLOW:</h3>
 
