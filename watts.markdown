@@ -19,7 +19,7 @@ Please refer to the publications below for the brand guidelines which review the
 <td width="50%">
 
 <h3>PRIMARY LOGO:</h3>
-<img src="watts/png/Watts_Wrong_Primary_Logo.png">
+<img src="/watts/png/Watts_Wrong_Primary_Logo.png">
 <ul>
 <li><a href="watts/png/Watts_Wrong_Primary_Logo.png" download>Watts_Wrong_Primary_Logo.png</a></li>
 <li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>Watts_Wrong_Primary_Logo.svg</a></li>
@@ -29,7 +29,7 @@ Please refer to the publications below for the brand guidelines which review the
 <td width="50%">
 
 <h3>SECONDARY LOGO:</h3>
-<img src="watts/png/Watts_Wrong_Secondary_Logo.png">
+<img src="/watts/png/Watts_Wrong_Secondary_Logo.png">
 <ul>
 <li><a href="watts/png/Watts_Wrong_Secondary_Logo.png" download>Watts_Wrong_Secondary_Logo.png</a></li>
 <li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>WWatts_Wrong_Primary_Logo.svg</a></li>
@@ -53,7 +53,7 @@ RGB: 33 158 188
 <br>
 HEX: #219Ebc
 <br>
-<img src="watts/colours/Light_Blue.jpg" width="100" height="100">
+<img src="/watts/colours/Light_Blue.jpg" width="100" height="100">
 
 </td>
 <td width="20%">
@@ -66,7 +66,7 @@ RGB: 2 48 71
 <br>
 HEX: #023047
 <br>
-<img src="watts/colours/Dark_Blue.jpg" width="100" height="100">
+<img src="/watts/colours/Dark_Blue.jpg" width="100" height="100">
 
 </td>
 <td width="20%">
@@ -79,7 +79,7 @@ RGB: 255 183 3
 <br>
 HEX: #ffb703
 <br>
-<img src="watts/colours/Mustard_Yellow.jpg" width="100" height="100">
+<img src="/watts/colours/Mustard_Yellow.jpg" width="100" height="100">
 
 </td>
 <td width="20%">
@@ -92,7 +92,7 @@ RGB: 211 151 19
 <br>
 HEX: #d39713
 <br>
-<img src="watts/colours/Burnt_Orange.jpg" width="100" height="100">
+<img src="/watts/colours/Burnt_Orange.jpg" width="100" height="100">
 
 </td>
 <td width="20%">
@@ -105,7 +105,7 @@ RGB: 255 255 255
 <br>
 HEX: #ffffff
 <br>
-<img src="watts/colours/White.jpg" width="100" height="100">
+<img src="/watts/colours/White.jpg" width="100" height="100">
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ HEX: #ffffff
 
 ## TYPOGRAPHY
 
-<img src="watts/images/Watts_Wrong_Typography.jpg">
+<img src="/watts/images/Watts_Wrong_Typography.jpg">
 
 - <a href="https://fontzone.net/font-details/ocr-a-extended" target="_blank">OCR A Extended Font from Fontzone</a>
 - <a href="https://www.whatfontis.com/NFC_Piepie-Regular.font)" target="_blank"> Piepie Font from Whatfontis</a>

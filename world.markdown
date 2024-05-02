@@ -11,7 +11,7 @@ Content...
 <td width="50%">
 
 <h3>1. WATTS WRONG</h3>
-<img src="watts/png/Watts_Wrong_Primary_Logo.png">
+<img src="/watts/png/Watts_Wrong_Primary_Logo.png">
 <br>
 <a href="/watts">Watts Wrong</a>
 
@@ -21,7 +21,7 @@ Content...
 <h3>2. 96.9 LIVELY STATION:</h3>
 IMAGE COMING...
 <br>
-<a href="/lively">96.9 Livley Station</a>
+96.9 Livley Station</a>
 
 </td>
 </tr>
