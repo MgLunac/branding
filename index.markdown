@@ -37,7 +37,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 </tr>
 </table>
 
-## LOGO COLORS
+## LOGO COLOURS
 
 <table>
 <tr>
