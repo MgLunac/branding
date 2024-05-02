@@ -23,7 +23,7 @@ Content...
 
 <img src="Watts Wrong-Primary Logo.png">
 
-- [Watts Wrong](/watts)
+- [96.9 Livley Station](lively.markdown)
 
 </td>
 
