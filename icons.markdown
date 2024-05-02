@@ -96,6 +96,53 @@ Please refer to the publications below for the brand guidelines which review the
 <li><a href="8_Colours.svg" download>8_Colours.svg</a></li>
 
 </td>
+
+<tr>
+<td width="25%">
+
+<h3>9. PARTS:</h3>
+
+<img src="9_Parts.png">
+
+<li><a href="1_Brix.png" download>1_Brix.png</a></li>
+<li><a href="9_Parts.svg" download>9_Parts.svg</a></li>
+</td>
+
+<td width="25%">
+
+<h3>10. POWER GRID:</h3>
+
+<img src="10_Power Grid.png">
+
+<li><a href="10_Power Grid.png" download>10_Power Grid.png</a></li>
+<li><a href="10_Power Grid.svg" download>10_Power Grid.svg</a></li>
+
+</td>
+
+<td width="25%">
+
+<h3>11. CONTROL PANEL:</h3>
+
+<img src="11_Control Panel.png">
+
+<li><a href="11_Control Panel.png" download>11_Control Panel.png</a></li>
+<li><a href="11_Control Panel.svg" download>11_Control Panel.svg</a></li>
+
+</td>
+<td width="25%">
+
+<h3>12. QR:</h3>
+
+<img src="12_QR.png">
+
+<li><a href="12_QR.png" download>12_QR.png</a></li>
+<li><a href="12_QR.svg" download>12_QR.svg</a></li>
+
+</td>
+
+</tr>
+
+
 </tr>
 </table>
 
