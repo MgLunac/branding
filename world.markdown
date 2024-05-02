@@ -19,7 +19,7 @@ Content...
 
 <h3>2. 96.9 LIVELY STATION:</h3>
 IMAGE COMING...
-[96.9 Livley Station](lively.markdown)
+[96.9 Livley Station](/lively)
 
 </td>
 </tr>
