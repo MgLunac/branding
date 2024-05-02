@@ -11,20 +11,20 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>1. BRIX:</h3>
 
-<img src="1_Brix_App_Icon.png">
+<img src="1_Brix.png">
 
-<li><a href="png/1_Brix_App_Icon.png" download>1_Brix_App_Icon.png</a></li>
-<li><a href="svg/1_Brix_App_Icon.svg" download>1_Brix_App_Icon.svg</a></li>
+<li><a href="1_Brix.png" download>1_Brix.png</a></li>
+<li><a href="1_Brix.svg" download>1_Brix.svg</a></li>
 </td>
 
 <td width="25%">
 
 <h3>2. NAVIGATION:</h3>
 
-<img src="2_Navigation_App_Icon.png">
+<img src="2_Navigation.png">
 
-<li><a href="png/2_Navigation_App_Icon.png" download>2_Navigation_App_Icon.png</a></li>
-<li><a href="svg/2_Navigation_App_Icon.svg" download>2_Navigation_App_Icon.svg</a></li>
+<li><a href="2_Navigation.png" download>2_Navigation.png</a></li>
+<li><a href="2_Navigation.svg" download>2_Navigation.svg</a></li>
 
 </td>
 
@@ -32,10 +32,12 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>3. FLOW:</h3>
 
-<img src="3_Flow_App_Icon.png">
+<img src="3_Flow.png">
 
-<li><a href="png/3_Flow_App_Icon.png" download>3_Flow_App_Icon.png</a></li>
-<li><a href="svg/3_Flow_App_Icon.svg" download>3_Flow_App_Icon.svg</a></li>
+<li><a href="3_Flow.png" download>3_Flow.png</a></li>
+<li><a href="3_Flow.svg" download>3_Flow.svg</a></li>
+
+
 
 </tr>
 
