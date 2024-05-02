@@ -9,7 +9,7 @@ Please refer to the publications below for the brand guidelines which review the
 <tr>
 <td width="33.3%">
 
-<h3>1. BRIX APP ICON:</h3>
+<h3>1. BRIX:</h3>
 
 <p>This APP is use for....</p>
 
@@ -21,7 +21,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>2. NAVIGATION APP ICON:</h3>
+<h3>2. NAVIGATION:</h3>
 
 <p>This APP is use for....</p> 
 
@@ -34,7 +34,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>3. FLOW APP ICON:</h3>
+<h3>3. FLOW:</h3>
 
 <p>This APP is use for....</p>
 
@@ -49,7 +49,7 @@ Please refer to the publications below for the brand guidelines which review the
 <tr>
 <td width="33.3%">
 
-<h3>4. EVENTS APP ICON:</h3>
+<h3>4. EVENTS:</h3>
 
 <p>This APP is use for....</p>
 
@@ -62,7 +62,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>5. RADIO STATION APP ICON:</h3>
+<h3>5. RADIO STATION:</h3>
 
 <p>This APP is use for....</p>
 
@@ -75,7 +75,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>6. TRAIN APP ICON:</h3>
+<h3>6. TRAIN:</h3>
 
 <p>This APP is use for....</p>
 
@@ -90,7 +90,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>7. PICK A BRICK APP ICON:</h3>
+<h3>7. PICK A BRICK:</h3>
 
 <p>This APP is use for....</p>
 
@@ -103,7 +103,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>8. PICK A COLOUR APP ICON:</h3>
+<h3>8. COLOURS:</h3>
 
 <p>This APP is use for....</p>
 
@@ -116,7 +116,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>9. PARTS APP ICON:</h3>
+<h3>9. PARTS:</h3>
 
 <p>This APP is use for....</p>
 
@@ -131,7 +131,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>10. POWER GRID APP ICON:</h3>
+<h3>10. POWER GRID:</h3>
 
 <p>This APP is use for....</p>
 
@@ -144,7 +144,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>11. CONTROL PANEL APP ICON:</h3>
+<h3>11. CONTROL PANEL:</h3>
 
 <p>This APP is use for....</p>
 
@@ -157,7 +157,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>12. QR APP ICON:</h3>
+<h3>12. QR:</h3>
 
 <p>This APP is use for....</p>
 
@@ -170,7 +170,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>13. TIMESHEETS APP ICON:</h3>
+<h3>13. TIMESHEETS:</h3>
 
 <p>This APP is use for....</p>
 
@@ -183,7 +183,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 <td width="33.3%">
 
-<h3>14. BRICKOVERFLOW APP ICON:</h3>
+<h3>14. BRICKOVERFLOW:</h3>
 
 <p>This APP is use for....</p>
 
