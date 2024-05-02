@@ -37,7 +37,17 @@ Please refer to the publications below for the brand guidelines which review the
 <li><a href="3_Flow.png" download>3_Flow.png</a></li>
 <li><a href="3_Flow.svg" download>3_Flow.svg</a></li>
 
+</td>
+<td width="25%">
 
+<h3>4. EVENTS:</h3>
+
+<img src="4_Events.png">
+
+<li><a href="4_Events.png" download>4_Events.png</a></li>
+<li><a href="4_Events.svg" download>4_Events.svg</a></li>
+
+</td>
 
 </tr>
 
