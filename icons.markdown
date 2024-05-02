@@ -12,7 +12,7 @@ Please refer to the publications below for the brand guidelines which review the
 <tr>
 <td width="25%">
 
-<h3>1. BRIX:</h3>
+<h3>1. BRIX</h3>
 <img src="icons/png/1_Brix.png">
 <ul>
 <li><a href="icons/png/1_Brix.png" download>1_Brix.png</a></li>
@@ -22,7 +22,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>2. NAVIGATION:</h3>
+<h3>2. NAVIGATION</h3>
 <img src="icons/png/2_Navigation.png">
 <ul>
 <li><a href="icons/png/2_Navigation.png" download>2_Navigation.png</a></li>
@@ -32,7 +32,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>3. FLOW:</h3>
+<h3>3. FLOW</h3>
 <img src="icons/png/3_Flow.png">
 <ul>
 <li><a href="icons/png/3_Flow.png" download>3_Flow.png</a></li>
@@ -42,7 +42,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>4. EVENTS:</h3>
+<h3>4. EVENTS</h3>
 <img src="icons/png/4_Events.png">
 <ul>
 <li><a href="icons/png/4_Events.png" download>4_Events.png</a></li>
@@ -54,7 +54,7 @@ Please refer to the publications below for the brand guidelines which review the
 <tr>
 <td width="25%">
 
-<h3>5. RADIO STATION:</h3>
+<h3>5. RADIO STATION</h3>
 <img src="icons/png/5_Radio_Station.png">
 <ul>
 <li><a href="icons/png/5_Radio_Station.png" download>5_Radio_Station.png</a></li>
@@ -64,7 +64,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>6. TRAIN:</h3>
+<h3>6. TRAIN</h3>
 <img src="icons/png/6_Train.png">
 <ul>
 <li><a href="icons/png/6_Train.png" download>6_Train.png</a></li>
@@ -74,7 +74,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>7. PICK A BRICK:</h3>
+<h3>7. PICK A BRICK</h3>
 <img src="icons/png/7_Pick_A_Brick.png">
 <ul>
 <li><a href="icons/png/7_Pick_A_Brick.png" download>7_Pick_A_Brick.png</a></li>
@@ -84,7 +84,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>8. COLOURS:</h3>
+<h3>8. COLOURS</h3>
 <img src="icons/png/8_Colours.png">
 <ul>
 <li><a href="icons/png/8_Colours.png" download>8_Colours.png</a></li>
@@ -96,7 +96,7 @@ Please refer to the publications below for the brand guidelines which review the
 <tr>
 <td width="25%">
 
-<h3>9. PARTS:</h3>
+<h3>9. PARTS</h3>
 <img src="icons/png/9_Parts.png">
 <ul>
 <li><a href="icons/png/9_Parts.png" download>9_Parts.png</a></li>
@@ -106,7 +106,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>10. POWER GRID:</h3>
+<h3>10. POWER GRID</h3>
 <img src="icons/png/10_Power_Grid.png">
 <ul>
 <li><a href="icons/png/10_Power_Grid.png" download>10_Power_Grid.png</a></li>
@@ -116,7 +116,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>11. CONTROL PANEL:</h3>
+<h3>11. CONTROL PANEL</h3>
 <img src="icons/png/11_Control_Panel.png">
 <ul>
 <li><a href="icons/png/11_Control_Panel.png" download>11_Control_Panel.png</a></li>
@@ -126,7 +126,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>12. QR:</h3>
+<h3>12. QR</h3>
 <img src="icons/png/12_QR.png">
 <ul>
 <li><a href="icons/png/12_QR.png" download>12_QR.png</a></li>
@@ -138,7 +138,7 @@ Please refer to the publications below for the brand guidelines which review the
 <tr>
 <td width="25%">
 
-<h3>13. TIMESHEETS:</h3>
+<h3>13. TIMESHEETS</h3>
 <img src="icons/png/13_Timesheets.png">
 <ul>
 <li><a href="icons/png/13_Timesheets.png" download>13_Timesheets.png</a></li>
@@ -148,7 +148,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>14. BRICKOVERFLOW:</h3>
+<h3>14. BRICKOVERFLOW</h3>
 <img src="icons/png/14_BrickOverflow.png">
 <ul>
 <li><a href="icons/png/14_BrickOverflow.png" download>14_BrickOverflow.png</a></li>
@@ -158,7 +158,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>15. TRACKS:</h3>
+<h3>15. TRACKS</h3>
 <img src="icons/png/15_Tracks.png">
 <ul>
 <li><a href="icons/png/15_Tracks.png" download>15_Tracks.png</a></li>
@@ -168,7 +168,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="25%">
 
-<h3>16. ROADVIEW:</h3>
+<h3>16. ROADVIEW</h3>
 <img src="icons/png/16_RoadView.png">
 <ul>
 <li><a href="icons/png/16_RoadView.png" download>16_RoadView.png</a></li>
