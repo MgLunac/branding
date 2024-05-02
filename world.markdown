@@ -10,16 +10,18 @@ Content...
 <tr>
 <td width="50%">
 
-<h3>1. WATTS WRONG:</h3>
+<h3>1. WATTS WRONG</h3>
 <img src="watts/png/Watts_Wrong_Primary_Logo.png">
-[Watts Wrong](/watts)
+<br>
+<a href="/watts">Watts Wrong</a>
 
 </td>
 <td width="50%">
 
 <h3>2. 96.9 LIVELY STATION:</h3>
 IMAGE COMING...
-[96.9 Livley Station](/lively)
+<br>
+<a href="/lively">96.9 Livley Station</a>
 
 </td>
 </tr>
