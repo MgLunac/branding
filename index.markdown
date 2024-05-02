@@ -305,10 +305,10 @@ HEX: #848484
 </ul>
 
 ## LINKS
-<ul>
-<li> [Icons of the APPS](icons) </li>
-<li> [In World Brands](world.markdown) </li>
-</ul>
+
+ [Icons of the APPS](icons) <br>
+ [In World Brands](world.markdown)
+
 
 ---
 
