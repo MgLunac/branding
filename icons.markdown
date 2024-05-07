@@ -179,6 +179,25 @@ To create future icons, use [App_Icons_Final_Version.ai](/icons/App_Icons_Final_
 
 </td>
 </tr>
+<tr>
+<td width="25%">
+
+<h3>17. TIMELINE</h3>
+<img src="/icons/png/17_Timeline.png">
+<ul>
+<li><a href="/icons/png/17_Timeline.png" download>17_Timeline.png</a></li>
+<li><a href="/icons/svg/17_Timeline.svg" download>17_Timeline.svg</a></li>
+</ul>
+
+</td>
+<td width="25%">
+
+</td>
+<td width="25%">
+</td>
+<td width="25%">
+</td>
+</tr>
 </table>
 
 ---
