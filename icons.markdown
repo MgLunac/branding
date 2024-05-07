@@ -183,10 +183,10 @@ To create future icons, use [App_Icons_Final_Version.ai](/icons/App_Icons_Final_
 <td width="25%">
 
 <h3>17. TIMELINE</h3>
-<img src="/icons/png/13_Timesheets.png">
+<img src="/icons/png/17_Timeline.png">
 <ul>
-<li><a href="icons/png/13_Timesheets.png" download>13_Timesheets.png</a></li>
-<li><a href="icons/svg/13_Timesheets.svg" download>13_Timesheets.svg</a></li>
+<li><a href="/icons/png/17_Timeline.png" download>17_Timeline.png</a></li>
+<li><a href="/icons/svg/17_Timeline.svg" download>17_Timeline.svg</a></li>
 </ul>
 
 </td>
