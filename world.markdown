@@ -21,8 +21,19 @@ Content...
 <h3>2. 96.9 LIVELY STATION:</h3>
 IMAGE COMING...
 <br>
-96.9 Livley Station</a>
+<a href="/lively">96.9 Lively Radio</a>
 
+</td>
+</tr>
+<tr>
+<td>
+
+<h3>2. BRICKCOIN:</h3>
+NEEDS A NEW NAME. IMAGE COMING...
+<br>
+<a href="/coin">COIN NAME</a>
+
+  
 </td>
 </tr>
 </table>
