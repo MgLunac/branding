@@ -14,7 +14,12 @@ These stack range in complexity to allow any developer with any level of experie
 
 #### Markdown
 
-<img src="https://console.codeadam.ca/api/image/markdown" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/javascript" width="60">
+Skill Level Required: Low
+Language: Markdown and HTML
+
+These assets are the most basic 
+
+<img src="https://console.codeadam.ca/api/image/markdown" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60">
      
 2. W3.CSS
 
