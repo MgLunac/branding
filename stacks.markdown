@@ -25,9 +25,18 @@ These stack range in complexity to allow any developer with any level of experie
      
 2. W3.CSS
 
-3. Bootstrap
+     Skill Level Required: **Moderate**  
+     Language: **W3.CSS**
 
-4. React/MUI
+     These assets are written using the [W3.CSS]([https://daringfireball.net/projects/markdown/synta](https://www.w3schools.com/w3css/) CSS framework. This is a super lightweight framework that provides developers a great introduction to CSS frame. These assets must be build using **only** W3.CSS classes. no custom CSS may be added (other than default fonts and colours that have been set in the W3.CSS BrickMMO template) 
+
+     [W3.CSS Templates](https://github.com/BrickMMO/frontend-templates/tree/main/w3)
+
+     <img src="https://console.codeadam.ca/api/image/w3css" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/javascript" width="60">
+
+4. Bootstrap
+
+5. React/MUI
    
 
 ### Backend Stacks
