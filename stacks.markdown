@@ -13,6 +13,8 @@ These stack range in complexity to allow any developer with any level of experie
 ### Frontend Templates
 
 #### Markdown
+
+<img src="https://console.codeadam.ca/api/image/markdown" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/javascript" width="60">
      
 2. W3.CSS
 
