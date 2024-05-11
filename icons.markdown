@@ -210,6 +210,13 @@ To create future icons, use [App_Icons_Final_Version.ai](/icons/App_Icons_Final_
 </ul> 
 </td>
 <td width="25%">
+
+<h3>20. STORES</h3>
+<img src="icons/png/20_Stores.png">
+<ul>
+<li><a href="icons/png/20_Stores.png" download>20_Stores.png</a></li>
+<li><a href="icons/svg/20_Stores.svg" download>20_Stores.svg</a></li>
+</ul> 
 </td>
 </tr>
 </table>
