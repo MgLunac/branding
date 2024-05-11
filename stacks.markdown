@@ -19,7 +19,7 @@ Language: **Markdown and HTML**
 
 These assets are written primarily in [Markdown](https://daringfireball.net/projects/markdown/syntax) (or vanilla HTML when required). Markdown must follow [_readme](https://readme.codeadam.ca/) guidelines. Assets are hosted using GitHub Pages and uses GitHub's Markdown processor called [jekyll-commonmark](https://www.markdownguide.org/tools/github-pages/). 
 
-[BrickMMO Markdown Template](https://github.com/BrickMMO/frontend-templates/tree/main/markdown)
+| View the [BrickMMO Markdown Template](https://github.com/BrickMMO/template-frontend/tree/main/markdown)
 
 <img src="https://console.codeadam.ca/api/image/markdown" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60">
      
@@ -30,7 +30,7 @@ Languages: **HTML, JavaScript, and W3.CSS**
 
 These assets are written using the [W3.CSS](https://www.w3schools.com/w3css/) CSS framework. This is a super lightweight framework that provides developers a great introduction to CSS frameworks. These assets must be coded using **only** W3.CSS classes; no custom CSS may be added (other than default fonts and colours that have been set in the W3.CSS BrickMMO template).
 
-[BrickMMO W3.CSS Templates](https://github.com/BrickMMO/frontend-templates/tree/main/w3)
+| View the [BrickMMO W3.CSS Template](https://github.com/BrickMMO/template-frontend/tree/main/w3)
 
 <img src="https://console.codeadam.ca/api/image/w3css" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/javascript" width="60"> 
 
@@ -41,7 +41,7 @@ Language: **HTML, CSS, JavaScript, and Bootstrap**
 
 These assets are written using the [Bootstrap](https://getbootstrap.com/) CSS framework. This is an open-source CSS framework. These assets must be coded using **only** Bootstrap classes and components; no custom CSS may be added (other than default fonts and colours that have been set in the Bootstrap BrickMMO template) 
 
-[BrickMMO W3.CSS Templates](https://github.com/BrickMMO/frontend-templates/tree/main/bootstrap)
+| View the [BrickMMO Bootstrap Templates](https://github.com/BrickMMO/template-frontend/tree/main/bootstrap)
 
 <img src="https://console.codeadam.ca/api/image/bootstrap" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/javascript" width="60">
 
@@ -51,6 +51,8 @@ Skill Level Required: **Advanced**
 Language: **React, MUI**
 
 These assets are written using [React](https://react.dev/) and [MUI](https://mui.com/). The assets also use the [Weebee](https://mui.com/store/previews/webbee-landing-page/) React/MUI template. 
+
+| View the [BrickMMO React/MUI Template](https://github.com/BrickMMO/template-frontend/tree/main/react-mui)
 
 <img src="https://console.codeadam.ca/api/image/react" width="60"> <img src="https://console.codeadam.ca/api/image/mui" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/typescript" width="60">
 
@@ -63,6 +65,8 @@ All BrickMMO assets use one of the following backend stacks:
 Skill Level Required: **Moderate**  
 Language: **PHP**
 
+| View the [BrickMMO Vanillia PHP Template](https://github.com/BrickMMO/template-backend-php)
+
 <img src="https://console.codeadam.ca/api/image/php" width="60">
 
 #### 2. Laravel/PHP
@@ -70,12 +74,16 @@ Language: **PHP**
 Skill Level Required: **Moderate**  
 Language: **PHP**
 
+| View the [BrickMMO Laravel/PHP Template](https://github.com/BrickMMO/template-backend-laravel)
+
 <img src="https://console.codeadam.ca/api/image/php" width="60"> <img src="https://console.codeadam.ca/api/image/laravel" width="60">
 
 #### 3. Node.js
 
 Skill Level Required: **Moderate**  
 Language: **Node.js**
+
+| View the [BrickMMO Node.js Template](https://github.com/BrickMMO/template-backend-nodejs)
 
 <img src="https://console.codeadam.ca/api/image/nodejs" width="60">
 
