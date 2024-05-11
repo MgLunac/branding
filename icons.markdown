@@ -191,9 +191,17 @@ To create future icons, use [App_Icons_Final_Version.ai](/icons/App_Icons_Final_
 
 </td>
 <td width="25%">
+  
+<h3>18. PLACEKIT</h3>
+<img src="icons/png/18_PlaceKit.png">
+<ul>
+<li><a href="icons/png/18_PlaceKit.png" download>18_PlaceKit.png</a></li>
+<li><a href="icons/svg/18_PlaceKit.svg" download>18_PlaceKit.svg</a></li>
+</ul> 
 
 </td>
 <td width="25%">
+
 </td>
 <td width="25%">
 </td>
