@@ -202,6 +202,12 @@ To create future icons, use [App_Icons_Final_Version.ai](/icons/App_Icons_Final_
 </td>
 <td width="25%">
 
+<h3>19. VIDEOKIT</h3>
+<img src="icons/png/19_VideoKit.png">
+<ul>
+<li><a href="icons/png/19_VideoKit.png" download>19_VideoKit.png</a></li>
+<li><a href="icons/svg/19_VideoKit.svg" download>19_VideoKit.svg</a></li>
+</ul> 
 </td>
 <td width="25%">
 </td>
