@@ -6,11 +6,11 @@
 
 The BrickMMO Smart City was initially designed to provide developers with a sandbox to practice their coding skills. The BrickMMO Smarty City consists of over 30 online assets, from [BrickMMO Branding Guidelines](https://branding.brickmmo.com/), to the project management application [Flow](https://flow.brickmmo.com/), to the official [BrickMMO Website](https://brickmmo.com/). 
 
-To provide some consistency, all BrickMMO assets use one of four stacks for the frontend, and one of two stacks for the backend. 
-
-These stack range in complexity to allow any developer with any level of experience to contribute.
+To provide some consistency, all BrickMMO assets use one of four stacks for the frontend, and one of two stacks for the backend. These stack range in complexity to allow any developer with any level of experience to contribute.
 
 ### Frontend Templates
+
+All BrickMMO assets use one of the following frontend stacks:
 
 #### 1. Markdown
 
@@ -50,7 +50,37 @@ These assets are written using the [Bootstrap](https://getbootstrap.com/) CSS fr
 Skill Level Required: **Advanced**  
 Language: **React, MUI**
 
+These assets are written using [React](https://react.dev/) and [MUI](https://mui.com/). The assets also use the [Weebee](https://mui.com/store/previews/webbee-landing-page/) React/MUI template. 
+
 <img src="https://console.codeadam.ca/api/image/react" width="60"> <img src="https://console.codeadam.ca/api/image/mui" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/typescript" width="60">
 
 ### Backend Stacks
 
+All BrickMMO assets use one of the following backend stacks:
+
+#### 1. Vanillia PHP
+
+Skill Level Required: **Moderate**  
+Language: **PHP**
+
+<img src="https://console.codeadam.ca/api/image/php" width="60">
+
+#### 2. Laravel/PHP
+
+Skill Level Required: **Moderate**  
+Language: **PHP**
+
+<img src="https://console.codeadam.ca/api/image/php" width="60"> <img src="https://console.codeadam.ca/api/image/laravel" width="60">
+
+#### 3. Node.js
+
+Skill Level Required: **Moderate**  
+Language: **Node.js**
+
+<img src="https://console.codeadam.ca/api/image/nodejs" width="60">
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
