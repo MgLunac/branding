@@ -19,7 +19,7 @@ Language: **Markdown and HTML**
 
 These assets are written primarily in [Markdown](https://daringfireball.net/projects/markdown/syntax) (or vanilla HTML when required). Markdown must follow [_readme](https://readme.codeadam.ca/) guidelines. Assets are hosted using GitHub Pages and uses GitHub's Markdown processor called [jekyll-commonmark](https://www.markdownguide.org/tools/github-pages/). 
 
-| View the [BrickMMO Markdown Template](https://github.com/BrickMMO/template-frontend/tree/main/markdown)
+> View the [BrickMMO Markdown Template](https://github.com/BrickMMO/template-frontend/tree/main/markdown)
 
 <img src="https://console.codeadam.ca/api/image/markdown" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60">
      
