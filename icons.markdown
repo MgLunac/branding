@@ -218,6 +218,7 @@ To create future icons, use [App_Icons_Final_Version.ai](/icons/App_Icons_Final_
 <li><a href="icons/svg/20_Stores.svg" download>20_Stores.svg</a></li>
 </ul> 
 </td>
+
 </tr>
 </table>
 
