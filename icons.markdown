@@ -226,7 +226,7 @@ To create future icons, use [App_Icons_Final_Version.ai](/icons/App_Icons_Final_
 <img src="icons/png/21_Bricksum.png">
 <ul>
 <li><a href="icons/png/21_Bricksum.png" download>21_Bricksum.png</a></li>
-<li><a href="icons/svg/9_Parts.svg" download>9_Parts.svg</a></li>
+<li><a href="icons/svg/21_Bricksum.svg" download>21_Bricksum.svg</a></li>
 </ul>
 
 
