@@ -223,9 +223,9 @@ To create future icons, use [App_Icons_Final_Version.ai](/icons/App_Icons_Final_
 <td width="25%">
 
 <h3>21. BRICKSUM</h3>
-<img src="/icons/png/9_Parts.png">
+<img src="icons/png/21_Bricksum.png">
 <ul>
-<li><a href="icons/png/9_Parts.png" download>9_Parts.png</a></li>
+<li><a href="icons/png/21_Bricksum.png" download>21_Bricksum.png</a></li>
 <li><a href="icons/svg/9_Parts.svg" download>9_Parts.svg</a></li>
 </ul>
 
