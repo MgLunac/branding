@@ -28,7 +28,7 @@ IMAGE COMING...
 <tr>
 <td>
 
-<h3>2. BRICKCOIN:</h3>
+<h3>3. BRICKCOIN:</h3>
 NEEDS A NEW NAME. IMAGE COMING...
 <br>
 <a href="/coin">COIN NAME</a>
