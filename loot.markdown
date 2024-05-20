@@ -12,13 +12,13 @@
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
-## LOOT CRPYTO COIN LOGOS
+## LOOT CRPYTO COIN VERSION LOGOS
 
 <table>
 <tr>
 <td width="50%">
 
-<h3>PRIMARY LOGO:</h3>
+<h3>HORIZONTAL LOGO:</h3>
 <img src="/watts/png/Watts_Wrong_Primary_Logo.png">
 <ul>
 <li><a href="watts/png/Watts_Wrong_Primary_Logo.png" download>Watts_Wrong_Primary_Logo.png</a></li>
@@ -28,7 +28,7 @@ Please refer to the publications below for the brand guidelines which review the
 </td>
 <td width="50%">
 
-<h3>SECONDARY LOGO:</h3>
+<h3>VERTICAL LOGO:</h3>
 <img src="/watts/png/Watts_Wrong_Secondary_Logo.png">
 <ul>
 <li><a href="watts/png/Watts_Wrong_Secondary_Logo.png" download>Watts_Wrong_Secondary_Logo.png</a></li>
