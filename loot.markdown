@@ -44,10 +44,10 @@ Please refer to the publications below for the brand guidelines which review the
 
 ## TYPOGRAPHY
 
-<img src="/watts/images/Watts_Wrong_Typography.jpg">
+<img src="Loot-Typography.jpg">
 
-- <a href="https://fontzone.net/font-details/ocr-a-extended" target="_blank">OCR A Extended Font from Fontzone</a>
-- <a href="https://www.whatfontis.com/NFC_Piepie-Regular.font)" target="_blank"> Piepie Font from Whatfontis</a>
+- <a href="https://www.dafont.com/bobba-tea.font" target="_blank">Bobba Tea Font from Dafont</a>
+- <a href="https://fonts.google.com/specimen/Lato" target="_blank"> Lato Font from Google Fonts</a>
 
 ---
 
