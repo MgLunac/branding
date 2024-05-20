@@ -19,19 +19,19 @@ Please refer to the publications below for the brand guidelines which review the
 <td width="50%">
 
 <h3>HORIZONTAL LOGO:</h3>
-<img src="/watts/png/Watts_Wrong_Primary_Logo.png">
+<img src="Loot-Horizontal Logo.jpg" width="1000">
 <ul>
-<li><a href="watts/png/Watts_Wrong_Primary_Logo.png" download>Watts_Wrong_Primary_Logo.png</a></li>
-<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>Watts_Wrong_Primary_Logo.svg</a></li>
+<li><a href="Loot-Horizontal Logo.jpg" download>Loot-Horizontal Logo.jpg</a></li>
+<li><a href="Loot-Horizontal Logo.svg" download>Loot-Horizontal Logo.svg</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>VERTICAL LOGO:</h3>
-<img src="/watts/png/Watts_Wrong_Secondary_Logo.png">
+<img src="Loot-Vertical Logo.jpg" width="180">
 <ul>
-<li><a href="watts/png/Watts_Wrong_Secondary_Logo.png" download>Watts_Wrong_Secondary_Logo.png</a></li>
+<li><a href="Loot-Vertical Logo.jpg" download>Loot-Vertical Logo.jpg</a></li>
 <li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>WWatts_Wrong_Primary_Logo.svg</a></li>
 </ul>
 
@@ -40,76 +40,41 @@ Please refer to the publications below for the brand guidelines which review the
 </table>
 
 ## LOOT CRYPTO COIN  COLOURS
-
-<table style="width:100%;">
-<tr>
-<td width="20%">
-
-<strong>LIGHT BLUE</strong>
-<br>
-CMYK: 42 6 4 0
-<br>
-RGB: 33 158 188  
-<br>
-HEX: #219Ebc
-<br>
-<img src="/watts/colours/Light_Blue.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>DARK BLUE</strong>
-<br>
-CMYK: 99 75 47 46
-<br>
-RGB: 2 48 71
-<br>
-HEX: #023047
-<br>
-<img src="/watts/colours/Dark_Blue.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>MUSTARD YELLOW</strong>
-<br>
-CMYK: 0 79 100 0
-<br>
-RGB: 255 183 3
-<br>
-HEX: #ffb703
-<br>
-<img src="/watts/colours/Mustard_Yellow.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>BURNT ORANGE</strong>
-<br>
-CMYK: 18 42 100 1
-<br>
-RGB: 211 151 19
-<br>
-HEX: #d39713
-<br>
-<img src="/watts/colours/Burnt_Orange.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>WHITE</strong>
-<br>
-CMYK: 0 0 0 0
-<br>
-RGB: 255 255 255
-<br>
-HEX: #ffffff
-<br>
-<img src="/watts/colours/White.jpg" width="100" height="100">
-
-</td>
-</tr>
-</table>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Recuadros con Bordes Redondeados</title>
+<style>
+  .recuadro-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+  }
+  .recuadro {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #000;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+<div class="recuadro-container">
+  <div class="recuadro">Recuadro 1</div>
+  <div class="recuadro">Recuadro 2</div>
+  <div class="recuadro">Recuadro 3</div>
+  <div class="recuadro">Recuadro 4</div>
+  <div class="recuadro">Recuadro 5</div>
+</div>
+</body>
+</html>
 
 ## TYPOGRAPHY
 
