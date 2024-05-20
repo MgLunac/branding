@@ -12,7 +12,7 @@
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
-## WATTS WRONG CORPORATION LOGOS
+## VERSION LOGOS
 
 <table>
 <tr>
@@ -39,9 +39,10 @@ Please refer to the publications below for the brand guidelines which review the
 </tr>
 </table>
 
-## WATTS WRONG COLOURS
+## COLOURS
 
 <img src="watts/colours/Watts-Colours.jpg">
+
 ## TYPOGRAPHY
 
 <img src="/watts/images/Watts_Wrong_Typography.jpg">
