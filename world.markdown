@@ -31,7 +31,7 @@ IMAGE COMING...
 <h3>3. LOOT:</h3>
 NEEDS A NEW NAME. IMAGE COMING...
 <br>
-<a href="/coin">COIN NAME</a>
+<a href="/loot">Loot</a>
 
   
 </td>
