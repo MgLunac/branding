@@ -2,7 +2,7 @@
 
 [Home](/) / [In World Brands](/world) / Watts Wrong Brand Guidlines
 
-## Loots Crypto Coin Brand Guidelines
+## Loot Crypto Coin Brand Guidelines
 
 **Welcome to the Loots Crypto Coin Brand Guidelines and Standards documentation. This guide is designed to help our team, partners, and the community understand and apply our branding consistently across various media.**
 
@@ -40,41 +40,7 @@ Please refer to the publications below for the brand guidelines which review the
 </table>
 
 ## LOOT CRYPTO COIN  COLOURS
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Recuadros con Bordes Redondeados</title>
-<style>
-  .recuadro-container {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    height: 100vh;
-  }
-  .recuadro {
-    width: 150px;
-    height: 150px;
-    border: 2px solid #000;
-    border-radius: 15px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 14px;
-    text-align: center;
-  }
-</style>
-</head>
-<body>
-<div class="recuadro-container">
-  <div class="recuadro">Recuadro 1</div>
-  <div class="recuadro">Recuadro 2</div>
-  <div class="recuadro">Recuadro 3</div>
-  <div class="recuadro">Recuadro 4</div>
-  <div class="recuadro">Recuadro 5</div>
-</div>
-</body>
-</html>
+<img src="Loot-Colours.jpg" width="1000">
 
 ## TYPOGRAPHY
 
