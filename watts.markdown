@@ -41,76 +41,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 ## WATTS WRONG COLOURS
 
-<table style="width:100%;">
-<tr>
-<td width="20%">
-
-<strong>LIGHT BLUE</strong>
-<br>
-CMYK: 42 6 4 0
-<br>
-RGB: 33 158 188  
-<br>
-HEX: #219Ebc
-<br>
-<img src="/watts/colours/Light_Blue.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>DARK BLUE</strong>
-<br>
-CMYK: 99 75 47 46
-<br>
-RGB: 2 48 71
-<br>
-HEX: #023047
-<br>
-<img src="/watts/colours/Dark_Blue.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>MUSTARD YELLOW</strong>
-<br>
-CMYK: 0 79 100 0
-<br>
-RGB: 255 183 3
-<br>
-HEX: #ffb703
-<br>
-<img src="/watts/colours/Mustard_Yellow.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>BURNT ORANGE</strong>
-<br>
-CMYK: 18 42 100 1
-<br>
-RGB: 211 151 19
-<br>
-HEX: #d39713
-<br>
-<img src="/watts/colours/Burnt_Orange.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>WHITE</strong>
-<br>
-CMYK: 0 0 0 0
-<br>
-RGB: 255 255 255
-<br>
-HEX: #ffffff
-<br>
-<img src="/watts/colours/White.jpg" width="100" height="100">
-
-</td>
-</tr>
-</table>
-
+<img src="watts/colours/Watts-Colours.jpg">
 ## TYPOGRAPHY
 
 <img src="/watts/images/Watts_Wrong_Typography.jpg">
