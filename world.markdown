@@ -29,7 +29,7 @@ IMAGE COMING...
 <td>
 
 <h3>3. LOOT:</h3>
-NEEDS A NEW NAME. IMAGE COMING...
+<img src="Loot-Horizontal Logo.jpg">
 <br>
 <a href="/loot">Loot</a>
 
