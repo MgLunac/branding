@@ -32,7 +32,7 @@ Please refer to the publications below for the brand guidelines which review the
 <img src="Loot-Vertical Logo.jpg" width="180">
 <ul>
 <li><a href="Loot-Vertical Logo.jpg" download>Loot-Vertical Logo.jpg</a></li>
-<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>WWatts_Wrong_Primary_Logo.svg</a></li>
+<li><a href="Loot-Vertical Logo.svg" download>Loot-Vertical Logo.svg</a></li>
 </ul>
 
 </td>
