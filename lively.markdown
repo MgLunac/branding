@@ -8,7 +8,7 @@
 
 **A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent the brand. We want to communicate to our audiences in a consistent and engaging voice and look.**
 
-**96.6 Lively Radio is a Radio Station company that exists inside the BrickMMO Smart City.**
+**Lively is radio station  that exists inside the BrickMMO SmartCity. It is also referred as L Radio or Lively Radio Staion.**
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
@@ -16,107 +16,29 @@ Please refer to the publications below for the brand guidelines which review the
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-<h3>PRIMARY LOGO:</h3>
-<img src="/watts/png/Watts_Wrong_Primary_Logo.png">
+<h3>LOGO:</h3>
+<img src="Lively Radio Station-Logo.jpg" width="500">
 <ul>
-<li><a href="watts/png/Watts_Wrong_Primary_Logo.png" download>Watts_Wrong_Primary_Logo.png</a></li>
-<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>Watts_Wrong_Primary_Logo.svg</a></li>
-</ul>
-
-</td>
-<td width="50%">
-
-<h3>SECONDARY LOGO:</h3>
-<img src="/watts/png/Watts_Wrong_Secondary_Logo.png">
-<ul>
-<li><a href="watts/png/Watts_Wrong_Secondary_Logo.png" download>Watts_Wrong_Secondary_Logo.png</a></li>
-<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>WWatts_Wrong_Primary_Logo.svg</a></li>
+<li><a href="Lively Radio Station-Logo.jpg" download>Lively Radio Station-Logo.jpg</a></li>
+<li><a href="Lively Radio Station-Logo.svg" download>Lively Radio Station-Logo.svg</a></li>
 </ul>
 
 </td>
 </tr>
 </table>
 
-## WATTS WRONG COLOURS
+## COLOURS
 
-<table style="width:100%;">
-<tr>
-<td width="20%">
-
-<strong>LIGHT BLUE</strong>
-<br>
-CMYK: 42 6 4 0
-<br>
-RGB: 33 158 188  
-<br>
-HEX: #219Ebc
-<br>
-<img src="/watts/colours/Light_Blue.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>DARK BLUE</strong>
-<br>
-CMYK: 99 75 47 46
-<br>
-RGB: 2 48 71
-<br>
-HEX: #023047
-<br>
-<img src="/watts/colours/Dark_Blue.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>MUSTARD YELLOW</strong>
-<br>
-CMYK: 0 79 100 0
-<br>
-RGB: 255 183 3
-<br>
-HEX: #ffb703
-<br>
-<img src="/watts/colours/Mustard_Yellow.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>BURNT ORANGE</strong>
-<br>
-CMYK: 18 42 100 1
-<br>
-RGB: 211 151 19
-<br>
-HEX: #d39713
-<br>
-<img src="/watts/colours/Burnt_Orange.jpg" width="100" height="100">
-
-</td>
-<td width="20%">
-
-<strong>WHITE</strong>
-<br>
-CMYK: 0 0 0 0
-<br>
-RGB: 255 255 255
-<br>
-HEX: #ffffff
-<br>
-<img src="/watts/colours/White.jpg" width="100" height="100">
-
-</td>
-</tr>
-</table>
+<img src="Lively Radio Station-Colours.jpg">
 
 ## TYPOGRAPHY
 
-<img src="/watts/images/Watts_Wrong_Typography.jpg">
+<img src="Lively Radio Station-Fonts.jpg">
 
-- <a href="https://fontzone.net/font-details/ocr-a-extended" target="_blank">OCR A Extended Font from Fontzone</a>
-- <a href="https://www.whatfontis.com/NFC_Piepie-Regular.font)" target="_blank"> Piepie Font from Whatfontis</a>
+- <a href="https://fonts.google.com/specimen/Righteous" target="_blank">Righteous from Google Fonts</a>
+- <a href="https://fonts.google.com/?query=urbanist" target="_blank"> Urbanist from Google Fonts</a>
 ---
 
 <a href="https://brickmmo.com">
