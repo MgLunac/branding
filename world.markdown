@@ -11,18 +11,13 @@ Content...
 <td width="50%">
 
 <h3>1. WATTS WRONG</h3>
-<img src="watts/Watts Wrong-Logo-.jpg" width="500" >
-<br>
-<a href="/lively">WATTS WRONG</a>
-
+<a href="/watts"><img src="watts/Watts Wrong-Logo-.jpg" width="500" ></a>
 
 </td>
 <td width="50%">
 
 <h3>2. 96.9 LIVELY STATION:</h3>
-<img src="Lively Radio Station-Logo-.jpg" width="500">
-<br>
-<a href="/lively">96.9 Lively Radio</a>
+<a href="/lively"><img src="Lively Radio Station-Logo-.jpg" width="500"></a>
 
 </td>
 </tr>
@@ -30,10 +25,7 @@ Content...
 <td>
 
 <h3>3. LOOT:</h3>
-<img src="Loot-Logo-.jpg" width="500">
-<br>
-<a href="/loot">Loot</a>
-
+<a href="/loot"><img src="Loot-Logo-.jpg" width="500"></a>
   
 </td>
 </tr>
