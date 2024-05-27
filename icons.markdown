@@ -207,7 +207,8 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <ul>
 <li><a href="/icons/png/19_VideoKit.png" download>19_VideoKit.png</a></li>
 <li><a href="/icons/svg/19_VideoKit.svg" download>19_VideoKit.svg</a></li>
-</ul> 
+</ul>
+
 </td>
 <td width="25%">
 
@@ -216,9 +217,10 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <ul>
 <li><a href="/icons/png/20_Stores.png" download>20_Stores.png</a></li>
 <li><a href="/icons/svg/20_Stores.svg" download>20_Stores.svg</a></li>
-</ul> 
-</td>
+</ul>
 
+</td>
+</tr>
 <tr>
 <td width="25%">
 
