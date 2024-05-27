@@ -21,8 +21,8 @@ Please refer to the publications below for the brand guidelines which review the
 <h3>PRIMARY LOGO:</h3>
 <img src="/watts/png/Watts_Wrong_Primary_Logo.png">
 <ul>
-<li><a href="watts/png/Watts_Wrong_Primary_Logo.png" download>Watts_Wrong_Primary_Logo.png</a></li>
-<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>Watts_Wrong_Primary_Logo.svg</a></li>
+<li><a href="/watts/png/Watts_Wrong_Primary_Logo.png" download>Watts_Wrong_Primary_Logo.png</a></li>
+<li><a href="/watts/svg/Watts_Wrong_Primary_Logo.svg" download>Watts_Wrong_Primary_Logo.svg</a></li>
 </ul>
 
 </td>
@@ -31,8 +31,8 @@ Please refer to the publications below for the brand guidelines which review the
 <h3>SECONDARY LOGO:</h3>
 <img src="/watts/png/Watts_Wrong_Secondary_Logo.png">
 <ul>
-<li><a href="watts/png/Watts_Wrong_Secondary_Logo.png" download>Watts_Wrong_Secondary_Logo.png</a></li>
-<li><a href="watts/svg/Watts_Wrong_Primary_Logo.svg" download>WWatts_Wrong_Primary_Logo.svg</a></li>
+<li><a href="/watts/png/Watts_Wrong_Secondary_Logo.png" download>Watts_Wrong_Secondary_Logo.png</a></li>
+<li><a href="/watts/svg/Watts_Wrong_Primary_Logo.svg" download>WWatts_Wrong_Primary_Logo.svg</a></li>
 </ul>
 
 </td>
@@ -41,7 +41,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 ## COLOURS
 
-<img src="watts/colours/Watts-Colours.jpg">
+<img src="/watts/colours/Watts_Wrong_Colours.jpg">
 
 ## TYPOGRAPHY
 
