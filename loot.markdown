@@ -19,20 +19,20 @@ Please refer to the publications below for the brand guidelines which review the
 <td width="50%">
 
 <h3>HORIZONTAL LOGO:</h3>
-<img src="Loot-Horizontal Logo.jpg" width="1000">
+<img src="/loot/Loot_Logo.jpg" width="1000">
 <ul>
-<li><a href="Loot-Horizontal Logo.jpg" download>Loot-Horizontal Logo.jpg</a></li>
-<li><a href="Loot-Horizontal Logo.svg" download>Loot-Horizontal Logo.svg</a></li>
+<li><a href="/loot/jpg/Loot_Horizontal_Logo.jpg" download>Loot_Horizontal_Logo.jpg</a></li>
+<li><a href="/loot/svg/Loot_Horizontal_Logo.svg" download>Loot_Horizontal_Logo.svg</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>VERTICAL LOGO:</h3>
-<img src="Loot-Vertical Logo.jpg" width="180">
+<img src="/loot/jpg/Loot_Vertical_Logo.jpg" width="180">
 <ul>
-<li><a href="Loot-Vertical Logo.jpg" download>Loot-Vertical Logo.jpg</a></li>
-<li><a href="Loot-Vertical Logo.svg" download>Loot-Vertical Logo.svg</a></li>
+<li><a href="/loot/jpg/Loot_Vertical_Logo.jpg" download>Loot_Vertical_Logo.jpg</a></li>
+<li><a href="/loot/svg/Loot_Vertical_Logo.svg" download>Loot_Vertical_Logo.svg</a></li>
 </ul>
 
 </td>
@@ -40,6 +40,7 @@ Please refer to the publications below for the brand guidelines which review the
 </table>
 
 ## COLOURS
+
 <img src="Loot-Colours.jpg" width="1000">
 
 ## TYPOGRAPHY
@@ -54,4 +55,3 @@ Please refer to the publications below for the brand guidelines which review the
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
 </a>
-

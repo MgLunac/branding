@@ -41,7 +41,7 @@ Please refer to the publications below for the brand guidelines which review the
 
 ## COLOURS
 
-<img src="/watts/colours/Watts_Wrong_Colours.jpg">
+<img src="/watts/images/Watts_Wrong_Colours.jpg">
 
 ## TYPOGRAPHY
 
