@@ -230,6 +230,9 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 </ul>
 
 </td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
