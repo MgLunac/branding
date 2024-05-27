@@ -41,11 +41,11 @@ Please refer to the publications below for the brand guidelines which review the
 
 ## COLOURS
 
-<img src="Loot-Colours.jpg" width="1000">
+<img src="/loot/images/Loot_Colours.jpg" width="1000">
 
 ## TYPOGRAPHY
 
-<img src="Loot-Typography.jpg">
+<img src="/loot/images/Loot_Typography.jpg">
 
 - <a href="https://www.dafont.com/bobba-tea.font" target="_blank">Bobba Tea Font from Dafont</a>
 - <a href="https://fonts.google.com/specimen/Lato" target="_blank"> Lato Font from Google Fonts</a>
