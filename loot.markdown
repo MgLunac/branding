@@ -19,20 +19,20 @@ Please refer to the publications below for the brand guidelines which review the
 <td width="50%">
 
 <h3>HORIZONTAL LOGO:</h3>
-<img src="/loot/Loot_Logo.jpg" width="1000">
+<img src="loot/Loot_Logo.jpg" width="1000">
 <ul>
-<li><a href="/loot/jpg/Loot_Horizontal_Logo.jpg" download>Loot_Horizontal_Logo.jpg</a></li>
-<li><a href="/loot/svg/Loot_Horizontal_Logo.svg" download>Loot_Horizontal_Logo.svg</a></li>
+<li><a href="loot/jpg/Loot_Horizontal_Logo.jpg" download>Loot_Horizontal_Logo.jpg</a></li>
+<li><a href="loot/svg/Loot_Horizontal_Logo.svg" download>Loot_Horizontal_Logo.svg</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>VERTICAL LOGO:</h3>
-<img src="/loot/jpg/Loot_Vertical_Logo.jpg" width="180">
+<img src="loot/jpg/Loot_Vertical_Logo.jpg" width="180">
 <ul>
-<li><a href="/loot/jpg/Loot_Vertical_Logo.jpg" download>Loot_Vertical_Logo.jpg</a></li>
-<li><a href="/loot/svg/Loot_Vertical_Logo.svg" download>Loot_Vertical_Logo.svg</a></li>
+<li><a href="loot/jpg/Loot_Vertical_Logo.jpg" download>Loot_Vertical_Logo.jpg</a></li>
+<li><a href="loot/svg/Loot_Vertical_Logo.svg" download>Loot_Vertical_Logo.svg</a></li>
 </ul>
 
 </td>
@@ -41,11 +41,11 @@ Please refer to the publications below for the brand guidelines which review the
 
 ## COLOURS
 
-<img src="/loot/images/Loot_Colours.jpg" width="1000">
+<img src="loot/images/Loot_Colours.jpg" width="1000">
 
 ## TYPOGRAPHY
 
-<img src="/loot/images/Loot_Typography.jpg">
+<img src="loot/images/Loot_Typography.jpg">
 
 - <a href="https://www.dafont.com/bobba-tea.font" target="_blank">Bobba Tea Font from Dafont</a>
 - <a href="https://fonts.google.com/specimen/Lato" target="_blank"> Lato Font from Google Fonts</a>

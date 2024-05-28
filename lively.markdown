@@ -19,10 +19,10 @@ Please refer to the publications below for the brand guidelines which review the
 <td width="100%">
 
 <h3>LOGO:</h3>
-<img src="/lively/jpg/Lively_Radio_Station_Logo.jpg" width="500">
+<img src="lively/jpg/Lively_Radio_Station_Logo.jpg" width="500">
 <ul>
-<li><a href="/lively/jpg/Lively_Radio_Station_Logo.jpg" download>Lively_Radio_Station_Logo.jpg</a></li>
-<li><a href="/lively/svg/Lively_Radio_Station_Logo.svg" download>Lively_Radio_Station_Logo.svg</a></li>
+<li><a href="lively/jpg/Lively_Radio_Station_Logo.jpg" download>Lively_Radio_Station_Logo.jpg</a></li>
+<li><a href="lively/svg/Lively_Radio_Station_Logo.svg" download>Lively_Radio_Station_Logo.svg</a></li>
 </ul>
 
 </td>
@@ -31,11 +31,11 @@ Please refer to the publications below for the brand guidelines which review the
 
 ## COLOURS
 
-<img src="/lively/images/Lively_Radio_Station_Colours.jpg">
+<img src="lively/images/Lively_Radio_Station_Colours.jpg">
 
 ## TYPOGRAPHY
 
-<img src="/lively/images/Lively_Radio_Station_Fonts.jpg">
+<img src="lively/images/Lively_Radio_Station_Fonts.jpg">
 
 - <a href="https://fonts.google.com/specimen/Righteous" target="_blank">Righteous from Google Fonts</a>
 - <a href="https://fonts.google.com/?query=urbanist" target="_blank"> Urbanist from Google Fonts</a>
