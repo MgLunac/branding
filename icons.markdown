@@ -151,7 +151,7 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <td width="25%">
 
 <h3>14. BRICKOVERFLOW</h3>
-<img src="icons/png/14_BrickOverflow.png">
+<img src="icons/png/14_Brick_Overflow.png">
 <ul>
 <li><a href="icons/png/14_Brick_Overflow.png" download>14_Brick_Overflow.png</a></li>
 <li><a href="icons/svg/14_Brick_Overflow.svg" download>14_Brick_Overflow.svg</a></li>
