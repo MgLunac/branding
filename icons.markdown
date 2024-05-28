@@ -193,32 +193,36 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <td width="25%">
   
 <h3>18. PLACEKIT</h3>
-<img src="icons/png/18_PlaceKit-.png">
+<img src="/icons/png/18_PlaceKit.png">
 <ul>
-<li><a href="icons/png/18_PlaceKit-.png" download>18_PlaceKit-.png</a></li>
-<li><a href="icons/svg/18_PlaceKit-.svg" download>18_PlaceKit-.svg</a></li>
-</ul> 
+<li><a href="/icons/png/18_PlaceKit.png" download>18_PlaceKit.png</a></li>
+<li><a href="/icons/svg/18_PlaceKit.svg" download>18_PlaceKit.svg</a></li>
+</ul>
 
 </td>
 <td width="25%">
 
 <h3>19. VIDEOKIT</h3>
-<img src="icons/png/19_VideoKit-.png">
+
+<img src="/icons/png/19_VideoKit.png">
 <ul>
-<li><a href="icons/png/19_VideoKit-.png" download>19_VideoKit-.png</a></li>
-<li><a href="icons/svg/19_VideoKit-.svg" download>19_VideoKit-.svg</a></li>
-</ul> 
+<li><a href="/icons/png/19_VideoKit.png" download>19_VideoKit.png</a></li>
+<li><a href="/icons/svg/19_VideoKit.svg" download>19_VideoKit.svg</a></li>
+</ul>
+
 </td>
 <td width="25%">
 
 <h3>20. STORES</h3>
-<img src="icons/png/20_Stores-.png">
+<img src="/icons/png/20_Stores.png">
 <ul>
-<li><a href="icons/png/20_Stores-.png" download>20_Stores-.png</a></li>
-<li><a href="icons/svg/20_Stores-.svg" download>20_Stores-.svg</a></li>
-</ul> 
-</td>
+<li><a href="/icons/png/20_Stores.png" download>20_Stores.png</a></li>
+<li><a href="/icons/svg/20_Stores.svg" download>20_Stores.svg</a></li>
+</ul>
 
+
+</td>
+</tr>
 <tr>
 <td width="25%">
 
@@ -229,10 +233,10 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <li><a href="icons/svg/21_Bricksum-.svg" download>21_Bricksum-.svg</a></li>
 </ul>
 
-
-
 </td>
-
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
