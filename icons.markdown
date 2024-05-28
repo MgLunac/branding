@@ -77,10 +77,10 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <td width="25%">
 
 <h3>7. PICK A BRICK</h3>
-<img src="icons/png/7_Pick_a_Brick.png">
+<img src="icons/png/7_Pick_A_Brick.png">
 <ul>
-<li><a href="icons/png/7_Pick_a_Brick.png" download>7_Pick_a_Brick.png</a></li>
-<li><a href="icons/svg/7_Pick_a_Brick.svg" download>7_Pick_a_Brick.svg</a></li>
+<li><a href="icons/png/7_Pick_A_Brick.png" download>7_Pick_A_Brick.png</a></li>
+<li><a href="icons/svg/7_Pick_A_Brick.svg" download>7_Pick_A_Brick.svg</a></li>
 </ul>
 
 </td>
